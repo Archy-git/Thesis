@@ -1,0 +1,3826 @@
+{
+  "mode": "L1",
+  "run_id": "00_00_20260421_163218",
+  "base_dir": "final_experiment/L1/window_00_00",
+  "sim_offset_s": 0.0,
+  "pdr_ab_overall": 54.781050789550434,
+  "pdr_ab_recv": 13148,
+  "pdr_ab_sent": 24001,
+  "pdr_ba_overall": 54.94354401899921,
+  "pdr_ba_recv": 13187,
+  "pdr_ba_sent": 24001,
+  "latency_ba": {
+    "count": 13187,
+    "mean_ms": 8.346274561462046,
+    "median_ms": 3.197887,
+    "p95_ms": 11.500717,
+    "p99_ms": 15.366395,
+    "min_ms": -2.763105,
+    "max_ms": 2042.476867,
+    "stdev_ms": 71.49643496412193
+  },
+  "latency_ab": {
+    "count": 13148,
+    "mean_ms": 32.397456270687556,
+    "median_ms": 20.262567,
+    "p95_ms": 81.359645,
+    "p99_ms": 146.720481,
+    "min_ms": -7.568326,
+    "max_ms": 2104.316154,
+    "stdev_ms": 81.72430176744076
+  },
+  "jitter_ba": {
+    "mean_inter_arrival_ms": 91.00542411459122,
+    "stdev_inter_arrival_ms": 3518.1439468660874,
+    "samples": 13186
+  },
+  "jitter_ab": {
+    "mean_inter_arrival_ms": 91.27486466410588,
+    "stdev_inter_arrival_ms": 3534.02572307365,
+    "samples": 13147
+  },
+  "burst_ab": {
+    "max_burst": 7184,
+    "total_bursts": 2,
+    "mean_burst": 5426.5,
+    "median_burst": 5426.5,
+    "histogram": {
+      "7184": 1,
+      "3669": 1
+    }
+  },
+  "burst_ba": {
+    "max_burst": 7212,
+    "total_bursts": 4,
+    "mean_burst": 2703.5,
+    "median_burst": 1800.5,
+    "histogram": {
+      "7212": 1,
+      "1": 2,
+      "3600": 1
+    }
+  },
+  "ooo_ba": 0,
+  "ooo_ab": 0,
+  "pdr_per_channel_ab": {
+    "7": {
+      "tx_count": 24001,
+      "rx_count": 13148,
+      "pdr_pct": 54.781050789550434
+    }
+  },
+  "pdr_per_bucket_ab": [
+    {
+      "bucket": 0,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 1,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 2,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 3,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 4,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 5,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 6,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 7,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 8,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 9,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 10,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 11,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 12,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 13,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 14,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 15,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 16,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 17,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 18,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 19,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 20,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 21,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 22,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 23,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 24,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 25,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 26,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 27,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 28,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 29,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 31,
+      "pdr_pct": 97.5609756097561,
+      "tx": 41,
+      "rx": 40
+    },
+    {
+      "bucket": 32,
+      "pdr_pct": 100.0,
+      "tx": 39,
+      "rx": 39
+    },
+    {
+      "bucket": 33,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 34,
+      "pdr_pct": 97.5609756097561,
+      "tx": 41,
+      "rx": 40
+    },
+    {
+      "bucket": 35,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 36,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 37,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 38,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 39,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 40,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 41,
+      "pdr_pct": 100.0,
+      "tx": 39,
+      "rx": 39
+    },
+    {
+      "bucket": 42,
+      "pdr_pct": 97.5609756097561,
+      "tx": 41,
+      "rx": 40
+    },
+    {
+      "bucket": 43,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 44,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 45,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 46,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 47,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 48,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 49,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 50,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 51,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 52,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 53,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 54,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 55,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 56,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 57,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 58,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 59,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 60,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 61,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 62,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 63,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 64,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 65,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 66,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 67,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 68,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 69,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 70,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 71,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 72,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 73,
+      "pdr_pct": 90.0,
+      "tx": 40,
+      "rx": 36
+    },
+    {
+      "bucket": 74,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 75,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 76,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 77,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 78,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 79,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 80,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 81,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 82,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 83,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 84,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 85,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 86,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 87,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 88,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 89,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 90,
+      "pdr_pct": 2.5,
+      "tx": 40,
+      "rx": 1
+    },
+    {
+      "bucket": 91,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 92,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 93,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 94,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 95,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 96,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 97,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 98,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 99,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 100,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 101,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 102,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 103,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 104,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 105,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 106,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 107,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 108,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 109,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 110,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 111,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 112,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 113,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 114,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 115,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 116,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 117,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 118,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 119,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 120,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 121,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 122,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 123,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 124,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 125,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 126,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 127,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 128,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 129,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 130,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 131,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 132,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 133,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 134,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 135,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 136,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 137,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 138,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 139,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 140,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 141,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 142,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 143,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 144,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 145,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 146,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 147,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 148,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 149,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 150,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 151,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 152,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 153,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 154,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 155,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 156,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 157,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 158,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 159,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 160,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 161,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 162,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 163,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 164,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 165,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 166,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 167,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 168,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 169,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 170,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 171,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 172,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 173,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 174,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 175,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 176,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 177,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 178,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 179,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 180,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 181,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 182,
+      "pdr_pct": 0.0,
+      "tx": 39,
+      "rx": 0
+    },
+    {
+      "bucket": 183,
+      "pdr_pct": 0.0,
+      "tx": 41,
+      "rx": 0
+    },
+    {
+      "bucket": 184,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 185,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 186,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 187,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 188,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 189,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 190,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 191,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 192,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 193,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 194,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 195,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 196,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 197,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 198,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 199,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 200,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 201,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 202,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 203,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 204,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 205,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 206,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 207,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 208,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 209,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 210,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 211,
+      "pdr_pct": 0.0,
+      "tx": 39,
+      "rx": 0
+    },
+    {
+      "bucket": 212,
+      "pdr_pct": 0.0,
+      "tx": 41,
+      "rx": 0
+    },
+    {
+      "bucket": 213,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 214,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 215,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 216,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 217,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 218,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 219,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 220,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 221,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 222,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 223,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 224,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 225,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 226,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 227,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 228,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 229,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 230,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 231,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 232,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 233,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 234,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 235,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 236,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 237,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 238,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 239,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 240,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 241,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 242,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 243,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 244,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 245,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 246,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 247,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 248,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 249,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 250,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 251,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 252,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 253,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 254,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 255,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 256,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 257,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 258,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 259,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 260,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 261,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 262,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 263,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 264,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 265,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 266,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 267,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 268,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 269,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 270,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 271,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 272,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 273,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 274,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 275,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 276,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 277,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 278,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 279,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 280,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 281,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 282,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 283,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 284,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 285,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 286,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 287,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 288,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 289,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 290,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 291,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 292,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 293,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 294,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 295,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 296,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 297,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 298,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 299,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 300,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 301,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 302,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 303,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 304,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 305,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 306,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 307,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 308,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 309,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 310,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 311,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 312,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 313,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 314,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 315,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 316,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 317,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 318,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 319,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 320,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 321,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 322,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 323,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 324,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 325,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 326,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 327,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 328,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 329,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 330,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 331,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 332,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 333,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 334,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 335,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 336,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 337,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 338,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 339,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 340,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 341,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 342,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 343,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 344,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 345,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 346,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 347,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 348,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 349,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 350,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 351,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 352,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 353,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 354,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 355,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 356,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 357,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 358,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 359,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 360,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 361,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 362,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 363,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 364,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 365,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 366,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 367,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 368,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 369,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 370,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 371,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 372,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 373,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 374,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 375,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 376,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 377,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 378,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 379,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 380,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 381,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 382,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 383,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 384,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 385,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 386,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 387,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 388,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 389,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 390,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 391,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 392,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 393,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 394,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 395,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 396,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 397,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 398,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 399,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 400,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 401,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 402,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 403,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 404,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 405,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 406,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 407,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 408,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 409,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 410,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 411,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 412,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 413,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 414,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 415,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 416,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 417,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 418,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 419,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 420,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 421,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 422,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 423,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 424,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 425,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 426,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 427,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 428,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 429,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 430,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 431,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 432,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 433,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 434,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 435,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 436,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 437,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 438,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 439,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 440,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 441,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 442,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 443,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 444,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 445,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 446,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 447,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 448,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 449,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 450,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 451,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 452,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 453,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 454,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 455,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 456,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 457,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 458,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 459,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 460,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 461,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 462,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 463,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 464,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 465,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 466,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 467,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 468,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 469,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 470,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 471,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 472,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 473,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 474,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 475,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 476,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 477,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 478,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 479,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 480,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 481,
+      "pdr_pct": 25.0,
+      "tx": 40,
+      "rx": 10
+    },
+    {
+      "bucket": 482,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 483,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 484,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 485,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 486,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 487,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 488,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 489,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 490,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 491,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 492,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 493,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 494,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 495,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 496,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 497,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 498,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 499,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 500,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 501,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 502,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 503,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 504,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 505,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 506,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 507,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 508,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 509,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 510,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 511,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 512,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 513,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 514,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 515,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 516,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 517,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 518,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 519,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 520,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 521,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 522,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 523,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 524,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 525,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 526,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 527,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 528,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 529,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 530,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 531,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 532,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 533,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 534,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 535,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 536,
+      "pdr_pct": 90.0,
+      "tx": 40,
+      "rx": 36
+    },
+    {
+      "bucket": 537,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 538,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 539,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 540,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 541,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 542,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 543,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 544,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 545,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 546,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 547,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 548,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 549,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 550,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 551,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 552,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 553,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 554,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 555,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 556,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 557,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 558,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 559,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 560,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 561,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 562,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 563,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 564,
+      "pdr_pct": 87.5,
+      "tx": 40,
+      "rx": 35
+    },
+    {
+      "bucket": 565,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 566,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 567,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 568,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 569,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 570,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 571,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 572,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 573,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 574,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 575,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 576,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 577,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 578,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 579,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 580,
+      "pdr_pct": 95.0,
+      "tx": 40,
+      "rx": 38
+    },
+    {
+      "bucket": 581,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 582,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 583,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 584,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 585,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 586,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 587,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 588,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 589,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 590,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 591,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 592,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 593,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 594,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 595,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 596,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 597,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 598,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 599,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 600,
+      "pdr_pct": 0.0,
+      "tx": 0,
+      "rx": 0
+    }
+  ],
+  "convergence_events": [
+    {
+      "event_time_s": 60,
+      "channel": "6",
+      "first_jammed_bucket": 30,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 180,
+      "channel": "7",
+      "first_jammed_bucket": 90,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 420,
+      "channel": "5",
+      "first_jammed_bucket": 210,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 420,
+      "channel": "8",
+      "first_jammed_bucket": 210,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 600,
+      "channel": "3",
+      "first_jammed_bucket": 300,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 660,
+      "channel": "4",
+      "first_jammed_bucket": 330,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 720,
+      "channel": "5",
+      "first_jammed_bucket": 360,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 720,
+      "channel": "6",
+      "first_jammed_bucket": 360,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 780,
+      "channel": "7",
+      "first_jammed_bucket": 390,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 840,
+      "channel": "9",
+      "first_jammed_bucket": 420,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 840,
+      "channel": "8",
+      "first_jammed_bucket": 420,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 900,
+      "channel": "10",
+      "first_jammed_bucket": 450,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 960,
+      "channel": "11",
+      "first_jammed_bucket": 480,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 1020,
+      "channel": "9",
+      "first_jammed_bucket": 510,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 1020,
+      "channel": "3",
+      "first_jammed_bucket": 510,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 1020,
+      "channel": "6",
+      "first_jammed_bucket": 510,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    }
+  ]
+}

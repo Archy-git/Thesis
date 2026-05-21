@@ -1,0 +1,26 @@
+ARTCHO TEST SUMMARY — L1 (run 11_50_20260421_171441)
+============================================================
+
+PDR (A -> B): 54.94%  (13185/24001)
+PDR (B -> A): 55.04%  (13210/24001)
+
+Latency (B -> A): mean=6.64ms  median=3.08ms  p95=5.65ms  p99=10.97ms  max=2050.46ms  stdev=71.51ms  n=13210
+Latency (A -> B): mean=21.72ms  median=9.20ms  p95=62.70ms  p99=127.06ms  max=2070.66ms  stdev=75.31ms  n=13185
+
+Convergence (buckets after jam onset):
+  ch6 (t=60s): A=+?, B=+?
+  ch7 (t=180s): A=+?, B=+?
+  ch5 (t=420s): A=+?, B=+?
+  ch8 (t=420s): A=+?, B=+?
+  ch3 (t=600s): A=+?, B=+?
+  ch4 (t=660s): A=+?, B=+?
+  ch5 (t=720s): A=+?, B=+?
+  ch6 (t=720s): A=+?, B=+?
+  ch7 (t=780s): A=+?, B=+?
+  ch8 (t=840s): A=+?, B=+?
+  ch9 (t=840s): A=+?, B=+?
+  ch10 (t=900s): A=+?, B=+?
+  ch11 (t=960s): A=+?, B=+?
+  ch6 (t=1020s): A=+?, B=+?
+  ch3 (t=1020s): A=+?, B=+?
+  ch9 (t=1020s): A=+?, B=+?

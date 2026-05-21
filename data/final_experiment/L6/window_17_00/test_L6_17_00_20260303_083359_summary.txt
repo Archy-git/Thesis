@@ -1,0 +1,29 @@
+ARTCHO TEST SUMMARY — L6 (run 17_00_20260303_083359)
+============================================================
+
+PDR (A -> B): 87.92%  (21101/24001)
+PDR (B -> A): 87.32%  (20958/24001)
+
+Latency (B -> A): mean=7.25ms  median=0.97ms  p95=4.60ms  p99=44.28ms  max=1122.90ms  stdev=61.56ms  n=20958
+Latency (A -> B): mean=10.21ms  median=1.54ms  p95=11.71ms  p99=277.38ms  max=1041.37ms  stdev=70.41ms  n=21101
+
+Convergence (buckets after jam onset):
+  ch6 (t=60s): A=+1, B=+1
+  ch7 (t=180s): A=+0, B=+0
+  ch7 (t=360s): A=+0, B=+0
+  ch8 (t=420s): A=+4, B=+4
+  ch5 (t=420s): A=+12, B=+12
+  ch3 (t=600s): A=+5, B=+5
+  ch4 (t=660s): A=+13, B=+14
+  ch6 (t=720s): A=+1, B=+1
+  ch5 (t=720s): A=+0, B=+0
+  ch7 (t=780s): A=+3, B=+3
+  ch9 (t=840s): A=+5, B=+6
+  ch8 (t=840s): A=+0, B=+0
+  ch10 (t=900s): A=+1, B=+1
+  ch11 (t=960s): A=+0, B=+0
+  ch9 (t=1020s): A=+7, B=+7
+  ch6 (t=1020s): A=+1, B=+1
+  ch3 (t=1020s): A=+2, B=+2
+
+BL agreement: 95.64% over 551 buckets

@@ -1,0 +1,3825 @@
+{
+  "mode": "L1",
+  "run_id": "17_00_20260421_173551",
+  "base_dir": "final_experiment/L1/window_17_00",
+  "sim_offset_s": 61200.0,
+  "pdr_ab_overall": 55.03520686638057,
+  "pdr_ab_recv": 13209,
+  "pdr_ab_sent": 24001,
+  "pdr_ba_overall": 55.26436398483396,
+  "pdr_ba_recv": 13264,
+  "pdr_ba_sent": 24001,
+  "latency_ba": {
+    "count": 13264,
+    "mean_ms": 12.20816269963812,
+    "median_ms": 2.9991095,
+    "p95_ms": 6.302915,
+    "p99_ms": 17.068658,
+    "min_ms": -0.393728,
+    "max_ms": 2057.643487,
+    "stdev_ms": 115.93533881221016
+  },
+  "latency_ab": {
+    "count": 13209,
+    "mean_ms": 12.276564605117724,
+    "median_ms": 6.255606,
+    "p95_ms": 18.15665,
+    "p99_ms": 29.703601,
+    "min_ms": 0.608333,
+    "max_ms": 2048.515689,
+    "stdev_ms": 75.49296284372636
+  },
+  "jitter_ba": {
+    "mean_inter_arrival_ms": 90.47666388358591,
+    "stdev_inter_arrival_ms": 3501.336436904561,
+    "samples": 13263
+  },
+  "jitter_ab": {
+    "mean_inter_arrival_ms": 90.85342684918231,
+    "stdev_inter_arrival_ms": 3515.3635144402288,
+    "samples": 13208
+  },
+  "burst_ab": {
+    "max_burst": 7174,
+    "total_bursts": 2,
+    "mean_burst": 5396,
+    "median_burst": 5396.0,
+    "histogram": {
+      "7174": 1,
+      "3618": 1
+    }
+  },
+  "burst_ba": {
+    "max_burst": 7173,
+    "total_bursts": 2,
+    "mean_burst": 5368.5,
+    "median_burst": 5368.5,
+    "histogram": {
+      "7173": 1,
+      "3564": 1
+    }
+  },
+  "ooo_ba": 0,
+  "ooo_ab": 0,
+  "pdr_per_channel_ab": {
+    "7": {
+      "tx_count": 24001,
+      "rx_count": 13209,
+      "pdr_pct": 55.03520686638057
+    }
+  },
+  "pdr_per_bucket_ab": [
+    {
+      "bucket": 30600,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30601,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30602,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30603,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30604,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30605,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30606,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30607,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30608,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30609,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30610,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30611,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30612,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30613,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30614,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30615,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30616,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30617,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30618,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30619,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30620,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30621,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30622,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30623,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30624,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30625,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30626,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30627,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30628,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30629,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30630,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30631,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30632,
+      "pdr_pct": 100.0,
+      "tx": 40,
+      "rx": 40
+    },
+    {
+      "bucket": 30633,
+      "pdr_pct": 97.5609756097561,
+      "tx": 41,
+      "rx": 40
+    },
+    {
+      "bucket": 30634,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30635,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30636,
+      "pdr_pct": 100.0,
+      "tx": 39,
+      "rx": 39
+    },
+    {
+      "bucket": 30637,
+      "pdr_pct": 97.5609756097561,
+      "tx": 41,
+      "rx": 40
+    },
+    {
+      "bucket": 30638,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30639,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30640,
+      "pdr_pct": 100.0,
+      "tx": 39,
+      "rx": 39
+    },
+    {
+      "bucket": 30641,
+      "pdr_pct": 97.5609756097561,
+      "tx": 41,
+      "rx": 40
+    },
+    {
+      "bucket": 30642,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30643,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30644,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30645,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30646,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30647,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30648,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30649,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30650,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30651,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30652,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30653,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30654,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30655,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30656,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30657,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30658,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30659,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30660,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30661,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30662,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30663,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30664,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30665,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30666,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30667,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30668,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30669,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30670,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30671,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30672,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30673,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30674,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30675,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30676,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30677,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30678,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30679,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30680,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30681,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30682,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30683,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30684,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30685,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30686,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30687,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30688,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30689,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30690,
+      "pdr_pct": 2.5,
+      "tx": 40,
+      "rx": 1
+    },
+    {
+      "bucket": 30691,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30692,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30693,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30694,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30695,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30696,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30697,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30698,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30699,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30700,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30701,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30702,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30703,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30704,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30705,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30706,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30707,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30708,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30709,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30710,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30711,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30712,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30713,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30714,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30715,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30716,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30717,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30718,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30719,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30720,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30721,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30722,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30723,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30724,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30725,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30726,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30727,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30728,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30729,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30730,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30731,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30732,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30733,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30734,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30735,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30736,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30737,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30738,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30739,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30740,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30741,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30742,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30743,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30744,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30745,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30746,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30747,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30748,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30749,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30750,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30751,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30752,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30753,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30754,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30755,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30756,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30757,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30758,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30759,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30760,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30761,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30762,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30763,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30764,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30765,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30766,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30767,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30768,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30769,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30770,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30771,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30772,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30773,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30774,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30775,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30776,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30777,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30778,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30779,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30780,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30781,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30782,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30783,
+      "pdr_pct": 0.0,
+      "tx": 39,
+      "rx": 0
+    },
+    {
+      "bucket": 30784,
+      "pdr_pct": 0.0,
+      "tx": 41,
+      "rx": 0
+    },
+    {
+      "bucket": 30785,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30786,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30787,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30788,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30789,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30790,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30791,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30792,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30793,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30794,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30795,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30796,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30797,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30798,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30799,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30800,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30801,
+      "pdr_pct": 0.0,
+      "tx": 39,
+      "rx": 0
+    },
+    {
+      "bucket": 30802,
+      "pdr_pct": 0.0,
+      "tx": 41,
+      "rx": 0
+    },
+    {
+      "bucket": 30803,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30804,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30805,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30806,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30807,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30808,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30809,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30810,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30811,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30812,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30813,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30814,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30815,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30816,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30817,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30818,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30819,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30820,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30821,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30822,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30823,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30824,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30825,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30826,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30827,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30828,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30829,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30830,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30831,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30832,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30833,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30834,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30835,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30836,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30837,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30838,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30839,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30840,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30841,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30842,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30843,
+      "pdr_pct": 0.0,
+      "tx": 39,
+      "rx": 0
+    },
+    {
+      "bucket": 30844,
+      "pdr_pct": 0.0,
+      "tx": 41,
+      "rx": 0
+    },
+    {
+      "bucket": 30845,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30846,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30847,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30848,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30849,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30850,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30851,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30852,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30853,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30854,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30855,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30856,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30857,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30858,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30859,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30860,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30861,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30862,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30863,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30864,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30865,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30866,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30867,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30868,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30869,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30870,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30871,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30872,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30873,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30874,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30875,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30876,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30877,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30878,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30879,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30880,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30881,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30882,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30883,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30884,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30885,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30886,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30887,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30888,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30889,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30890,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30891,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30892,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30893,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30894,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30895,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30896,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30897,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30898,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30899,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30900,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30901,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30902,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30903,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30904,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30905,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30906,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30907,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30908,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30909,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30910,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30911,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30912,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30913,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30914,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30915,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30916,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30917,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30918,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30919,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30920,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30921,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30922,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30923,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30924,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30925,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30926,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30927,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30928,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30929,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30930,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30931,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30932,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30933,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30934,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30935,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30936,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30937,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30938,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30939,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30940,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30941,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30942,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30943,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30944,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30945,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30946,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30947,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30948,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30949,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30950,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30951,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30952,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30953,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30954,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30955,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30956,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30957,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30958,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30959,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30960,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30961,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30962,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30963,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30964,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30965,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30966,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30967,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30968,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30969,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30970,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30971,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30972,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30973,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30974,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30975,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30976,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30977,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30978,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30979,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30980,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30981,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30982,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30983,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30984,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30985,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30986,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30987,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30988,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30989,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 30990,
+      "pdr_pct": 2.5,
+      "tx": 40,
+      "rx": 1
+    },
+    {
+      "bucket": 30991,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30992,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30993,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30994,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30995,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30996,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30997,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30998,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 30999,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31000,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31001,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31002,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31003,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31004,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31005,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31006,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31007,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31008,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31009,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31010,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31011,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31012,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31013,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31014,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31015,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31016,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31017,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31018,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31019,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31020,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31021,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31022,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31023,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31024,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31025,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31026,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31027,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31028,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31029,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31030,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31031,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31032,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31033,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31034,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31035,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31036,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31037,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31038,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31039,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31040,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31041,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31042,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31043,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31044,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31045,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31046,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31047,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31048,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31049,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31050,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31051,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31052,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31053,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31054,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31055,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31056,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31057,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31058,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31059,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31060,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31061,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31062,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31063,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31064,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31065,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31066,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31067,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31068,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31069,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31070,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31071,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31072,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31073,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31074,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31075,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31076,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31077,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31078,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31079,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31080,
+      "pdr_pct": 0.0,
+      "tx": 40,
+      "rx": 0
+    },
+    {
+      "bucket": 31081,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31082,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31083,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31084,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31085,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31086,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31087,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31088,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31089,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31090,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31091,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31092,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31093,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31094,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31095,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31096,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31097,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31098,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31099,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31100,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31101,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31102,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31103,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31104,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31105,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31106,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31107,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31108,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31109,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31110,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31111,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31112,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31113,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31114,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31115,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31116,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31117,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31118,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31119,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31120,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31121,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31122,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31123,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31124,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31125,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31126,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31127,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31128,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31129,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31130,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31131,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31132,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31133,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31134,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31135,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31136,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31137,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31138,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31139,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31140,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31141,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31142,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31143,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31144,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31145,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31146,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31147,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31148,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31149,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31150,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31151,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31152,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31153,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31154,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31155,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31156,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31157,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31158,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31159,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31160,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31161,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31162,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31163,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31164,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31165,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31166,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31167,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31168,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31169,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31170,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31171,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31172,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31173,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31174,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31175,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31176,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31177,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31178,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31179,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31180,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31181,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31182,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31183,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31184,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31185,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31186,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31187,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31188,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31189,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31190,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31191,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31192,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31193,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31194,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31195,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31196,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31197,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31198,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31199,
+      "pdr_pct": 97.5,
+      "tx": 40,
+      "rx": 39
+    },
+    {
+      "bucket": 31200,
+      "pdr_pct": 0.0,
+      "tx": 0,
+      "rx": 0
+    }
+  ],
+  "convergence_events": [
+    {
+      "event_time_s": 60,
+      "channel": "6",
+      "first_jammed_bucket": 30630,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 180,
+      "channel": "7",
+      "first_jammed_bucket": 30690,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 420,
+      "channel": "5",
+      "first_jammed_bucket": 30810,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 420,
+      "channel": "8",
+      "first_jammed_bucket": 30810,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 600,
+      "channel": "3",
+      "first_jammed_bucket": 30900,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 660,
+      "channel": "4",
+      "first_jammed_bucket": 30930,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 720,
+      "channel": "5",
+      "first_jammed_bucket": 30960,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 720,
+      "channel": "6",
+      "first_jammed_bucket": 30960,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 780,
+      "channel": "7",
+      "first_jammed_bucket": 30990,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 840,
+      "channel": "9",
+      "first_jammed_bucket": 31020,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 840,
+      "channel": "8",
+      "first_jammed_bucket": 31020,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 900,
+      "channel": "10",
+      "first_jammed_bucket": 31050,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 960,
+      "channel": "11",
+      "first_jammed_bucket": 31080,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 1020,
+      "channel": "3",
+      "first_jammed_bucket": 31110,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 1020,
+      "channel": "9",
+      "first_jammed_bucket": 31110,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    },
+    {
+      "event_time_s": 1020,
+      "channel": "6",
+      "first_jammed_bucket": 31110,
+      "a_detected_bucket": null,
+      "b_detected_bucket": null,
+      "a_convergence_buckets": null,
+      "b_convergence_buckets": null
+    }
+  ]
+}

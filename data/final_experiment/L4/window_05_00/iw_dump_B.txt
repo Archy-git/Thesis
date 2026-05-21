@@ -1,0 +1,25 @@
+=== wlan0 ===
+Interface wlan0
+	ifindex 3
+	wdev 0x1
+	addr 88:a2:9e:9c:c7:eb
+	ssid TacticalMesh
+	type IBSS
+	wiphy 0
+	channel 10 (2457 MHz), width: 20 MHz, center1: 2457 MHz
+	txpower 31.00 dBm
+=== wlan1 ===
+Interface wlan1
+	ifindex 12
+	wdev 0x1200000001
+	addr 24:ec:99:95:22:33
+	type managed
+	wiphy 18
+	txpower 0.00 dBm
+	multicast TXQ:
+		qsz-byt	qsz-pkt	flows	drops	marks	overlmt	hashcol	tx-bytes	tx-packets
+		0	0	0	0	0	0	0	0		0
+=== ip ===
+3: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 5
+    inet 192.168.200.2/24 scope global wlan0
+       valid_lft forever preferred_lft forever

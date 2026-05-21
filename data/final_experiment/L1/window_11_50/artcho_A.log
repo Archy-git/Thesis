@@ -1,0 +1,1509 @@
+============================================================
+ ARTCHO NODE — MODE=L1 — NODE_ID=A
+============================================================
+ Bucket duration : 2.0s
+ TEST_EPOCH      : 1776784502.0
+ BUCKET_EPOCH    : 1776741902.0
+ sim offset      : 42600s  (11.83h)
+ STATIC_CHANNEL  : 7
+ Use blacklist   : False
+ Detect enabled  : False
+ Dual radio      : False
+============================================================
+
+[WAIT] sleeping 16.2s until TEST_EPOCH...
+[INIT] L1 cold-start: pin wlan0 to ch7 (2442 MHz), wlan1 untouched
+[INIT] L1 cold-start complete.
+
+[RX  <- B] bucket=21300  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21300 L1 active=wlan0 ch7  BL=[]
+[17:15:04] HOP bucket=21301 L1 static ch7 wlan0
+[TX  ->  *] bucket=21301 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21301  peer_BL=[]  my_BL=[]
+[17:15:06] HOP bucket=21302 L1 static ch7 wlan0
+[TX  ->  *] bucket=21302 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21302  peer_BL=[]  my_BL=[]
+[17:15:08] HOP bucket=21303 L1 static ch7 wlan0
+[TX  ->  *] bucket=21303 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21303  peer_BL=[]  my_BL=[]
+[17:15:10] HOP bucket=21304 L1 static ch7 wlan0
+[RX  <- B] bucket=21304  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21304 L1 active=wlan0 ch7  BL=[]
+[17:15:12] HOP bucket=21305 L1 static ch7 wlan0
+[TX  ->  *] bucket=21305 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21305  peer_BL=[]  my_BL=[]
+[17:15:14] HOP bucket=21306 L1 static ch7 wlan0
+[TX  ->  *] bucket=21306 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21306  peer_BL=[]  my_BL=[]
+[17:15:16] HOP bucket=21307 L1 static ch7 wlan0
+[RX  <- B] bucket=21307  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21307 L1 active=wlan0 ch7  BL=[]
+[17:15:18] HOP bucket=21308 L1 static ch7 wlan0
+[TX  ->  *] bucket=21308 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21308  peer_BL=[]  my_BL=[]
+[17:15:20] HOP bucket=21309 L1 static ch7 wlan0
+[TX  ->  *] bucket=21309 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21309  peer_BL=[]  my_BL=[]
+[17:15:22] HOP bucket=21310 L1 static ch7 wlan0
+[TX  ->  *] bucket=21310 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21310  peer_BL=[]  my_BL=[]
+[17:15:24] HOP bucket=21311 L1 static ch7 wlan0
+[TX  ->  *] bucket=21311 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21311  peer_BL=[]  my_BL=[]
+[17:15:26] HOP bucket=21312 L1 static ch7 wlan0
+[TX  ->  *] bucket=21312 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21312  peer_BL=[]  my_BL=[]
+[17:15:28] HOP bucket=21313 L1 static ch7 wlan0
+[TX  ->  *] bucket=21313 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21313  peer_BL=[]  my_BL=[]
+[17:15:30] HOP bucket=21314 L1 static ch7 wlan0
+[TX  ->  *] bucket=21314 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21314  peer_BL=[]  my_BL=[]
+[17:15:32] HOP bucket=21315 L1 static ch7 wlan0
+[TX  ->  *] bucket=21315 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21315  peer_BL=[]  my_BL=[]
+[17:15:34] HOP bucket=21316 L1 static ch7 wlan0
+[TX  ->  *] bucket=21316 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21316  peer_BL=[]  my_BL=[]
+[17:15:36] HOP bucket=21317 L1 static ch7 wlan0
+[TX  ->  *] bucket=21317 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21317  peer_BL=[]  my_BL=[]
+[17:15:38] HOP bucket=21318 L1 static ch7 wlan0
+[RX  <- B] bucket=21318  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21318 L1 active=wlan0 ch7  BL=[]
+[17:15:40] HOP bucket=21319 L1 static ch7 wlan0
+[TX  ->  *] bucket=21319 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21319  peer_BL=[]  my_BL=[]
+[17:15:42] HOP bucket=21320 L1 static ch7 wlan0
+[RX  <- B] bucket=21320  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21320 L1 active=wlan0 ch7  BL=[]
+[17:15:44] HOP bucket=21321 L1 static ch7 wlan0
+[TX  ->  *] bucket=21321 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21321  peer_BL=[]  my_BL=[]
+[17:15:46] HOP bucket=21322 L1 static ch7 wlan0
+[RX  <- B] bucket=21322  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21322 L1 active=wlan0 ch7  BL=[]
+[17:15:48] HOP bucket=21323 L1 static ch7 wlan0
+[TX  ->  *] bucket=21323 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21323  peer_BL=[]  my_BL=[]
+[17:15:50] HOP bucket=21324 L1 static ch7 wlan0
+[TX  ->  *] bucket=21324 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21324  peer_BL=[]  my_BL=[]
+[17:15:52] HOP bucket=21325 L1 static ch7 wlan0
+[TX  ->  *] bucket=21325 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21325  peer_BL=[]  my_BL=[]
+[17:15:54] HOP bucket=21326 L1 static ch7 wlan0
+[TX  ->  *] bucket=21326 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21326  peer_BL=[]  my_BL=[]
+[17:15:56] HOP bucket=21327 L1 static ch7 wlan0
+[TX  ->  *] bucket=21327 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21327  peer_BL=[]  my_BL=[]
+[17:15:58] HOP bucket=21328 L1 static ch7 wlan0
+[TX  ->  *] bucket=21328 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21328  peer_BL=[]  my_BL=[]
+[17:16:00] HOP bucket=21329 L1 static ch7 wlan0
+[TX  ->  *] bucket=21329 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21329  peer_BL=[]  my_BL=[]
+[17:16:02] HOP bucket=21330 L1 static ch7 wlan0
+[TX  ->  *] bucket=21330 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21330  peer_BL=[]  my_BL=[]
+[17:16:04] HOP bucket=21331 L1 static ch7 wlan0
+[TX  ->  *] bucket=21331 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21331  peer_BL=[]  my_BL=[]
+[17:16:06] HOP bucket=21332 L1 static ch7 wlan0
+[RX  <- B] bucket=21332  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21332 L1 active=wlan0 ch7  BL=[]
+[17:16:08] HOP bucket=21333 L1 static ch7 wlan0
+[TX  ->  *] bucket=21333 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21333  peer_BL=[]  my_BL=[]
+[17:16:10] HOP bucket=21334 L1 static ch7 wlan0
+[TX  ->  *] bucket=21334 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21334  peer_BL=[]  my_BL=[]
+[17:16:12] HOP bucket=21335 L1 static ch7 wlan0
+[TX  ->  *] bucket=21335 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21335  peer_BL=[]  my_BL=[]
+[17:16:14] HOP bucket=21336 L1 static ch7 wlan0
+[TX  ->  *] bucket=21336 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21336  peer_BL=[]  my_BL=[]
+[17:16:16] HOP bucket=21337 L1 static ch7 wlan0
+[RX  <- B] bucket=21337  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21337 L1 active=wlan0 ch7  BL=[]
+[17:16:18] HOP bucket=21338 L1 static ch7 wlan0
+[TX  ->  *] bucket=21338 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21338  peer_BL=[]  my_BL=[]
+[17:16:20] HOP bucket=21339 L1 static ch7 wlan0
+[RX  <- B] bucket=21339  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21339 L1 active=wlan0 ch7  BL=[]
+[17:16:22] HOP bucket=21340 L1 static ch7 wlan0
+[TX  ->  *] bucket=21340 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21340  peer_BL=[]  my_BL=[]
+[17:16:24] HOP bucket=21341 L1 static ch7 wlan0
+[TX  ->  *] bucket=21341 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21341  peer_BL=[]  my_BL=[]
+[17:16:26] HOP bucket=21342 L1 static ch7 wlan0
+[TX  ->  *] bucket=21342 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21342  peer_BL=[]  my_BL=[]
+[17:16:28] HOP bucket=21343 L1 static ch7 wlan0
+[TX  ->  *] bucket=21343 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21343  peer_BL=[]  my_BL=[]
+[17:16:30] HOP bucket=21344 L1 static ch7 wlan0
+[TX  ->  *] bucket=21344 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21344  peer_BL=[]  my_BL=[]
+[17:16:32] HOP bucket=21345 L1 static ch7 wlan0
+[TX  ->  *] bucket=21345 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21345  peer_BL=[]  my_BL=[]
+[17:16:34] HOP bucket=21346 L1 static ch7 wlan0
+[TX  ->  *] bucket=21346 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21346  peer_BL=[]  my_BL=[]
+[17:16:36] HOP bucket=21347 L1 static ch7 wlan0
+[RX  <- B] bucket=21347  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21347 L1 active=wlan0 ch7  BL=[]
+[17:16:38] HOP bucket=21348 L1 static ch7 wlan0
+[TX  ->  *] bucket=21348 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21348  peer_BL=[]  my_BL=[]
+[17:16:40] HOP bucket=21349 L1 static ch7 wlan0
+[TX  ->  *] bucket=21349 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21349  peer_BL=[]  my_BL=[]
+[17:16:42] HOP bucket=21350 L1 static ch7 wlan0
+[RX  <- B] bucket=21350  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21350 L1 active=wlan0 ch7  BL=[]
+[17:16:44] HOP bucket=21351 L1 static ch7 wlan0
+[TX  ->  *] bucket=21351 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21351  peer_BL=[]  my_BL=[]
+[17:16:46] HOP bucket=21352 L1 static ch7 wlan0
+[TX  ->  *] bucket=21352 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21352  peer_BL=[]  my_BL=[]
+[17:16:48] HOP bucket=21353 L1 static ch7 wlan0
+[TX  ->  *] bucket=21353 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21353  peer_BL=[]  my_BL=[]
+[17:16:50] HOP bucket=21354 L1 static ch7 wlan0
+[TX  ->  *] bucket=21354 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21354  peer_BL=[]  my_BL=[]
+[17:16:52] HOP bucket=21355 L1 static ch7 wlan0
+[TX  ->  *] bucket=21355 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21355  peer_BL=[]  my_BL=[]
+[17:16:54] HOP bucket=21356 L1 static ch7 wlan0
+[TX  ->  *] bucket=21356 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21356  peer_BL=[]  my_BL=[]
+[17:16:56] HOP bucket=21357 L1 static ch7 wlan0
+[RX  <- B] bucket=21357  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21357 L1 active=wlan0 ch7  BL=[]
+[17:16:58] HOP bucket=21358 L1 static ch7 wlan0
+[RX  <- B] bucket=21358  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21358 L1 active=wlan0 ch7  BL=[]
+[17:17:00] HOP bucket=21359 L1 static ch7 wlan0
+[TX  ->  *] bucket=21359 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21359  peer_BL=[]  my_BL=[]
+[17:17:02] HOP bucket=21360 L1 static ch7 wlan0
+[TX  ->  *] bucket=21360 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21360  peer_BL=[]  my_BL=[]
+[17:17:04] HOP bucket=21361 L1 static ch7 wlan0
+[TX  ->  *] bucket=21361 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21361  peer_BL=[]  my_BL=[]
+[17:17:06] HOP bucket=21362 L1 static ch7 wlan0
+[TX  ->  *] bucket=21362 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21362  peer_BL=[]  my_BL=[]
+[17:17:08] HOP bucket=21363 L1 static ch7 wlan0
+[TX  ->  *] bucket=21363 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21363  peer_BL=[]  my_BL=[]
+[17:17:10] HOP bucket=21364 L1 static ch7 wlan0
+[TX  ->  *] bucket=21364 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21364  peer_BL=[]  my_BL=[]
+[17:17:12] HOP bucket=21365 L1 static ch7 wlan0
+[RX  <- B] bucket=21365  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21365 L1 active=wlan0 ch7  BL=[]
+[17:17:14] HOP bucket=21366 L1 static ch7 wlan0
+[TX  ->  *] bucket=21366 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21366  peer_BL=[]  my_BL=[]
+[17:17:16] HOP bucket=21367 L1 static ch7 wlan0
+[TX  ->  *] bucket=21367 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21367  peer_BL=[]  my_BL=[]
+[17:17:18] HOP bucket=21368 L1 static ch7 wlan0
+[TX  ->  *] bucket=21368 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21368  peer_BL=[]  my_BL=[]
+[17:17:20] HOP bucket=21369 L1 static ch7 wlan0
+[RX  <- B] bucket=21369  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21369 L1 active=wlan0 ch7  BL=[]
+[17:17:22] HOP bucket=21370 L1 static ch7 wlan0
+[TX  ->  *] bucket=21370 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21370  peer_BL=[]  my_BL=[]
+[17:17:24] HOP bucket=21371 L1 static ch7 wlan0
+[RX  <- B] bucket=21371  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21371 L1 active=wlan0 ch7  BL=[]
+[17:17:26] HOP bucket=21372 L1 static ch7 wlan0
+[TX  ->  *] bucket=21372 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21372  peer_BL=[]  my_BL=[]
+[17:17:28] HOP bucket=21373 L1 static ch7 wlan0
+[TX  ->  *] bucket=21373 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21373  peer_BL=[]  my_BL=[]
+[17:17:30] HOP bucket=21374 L1 static ch7 wlan0
+[TX  ->  *] bucket=21374 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21374  peer_BL=[]  my_BL=[]
+[17:17:32] HOP bucket=21375 L1 static ch7 wlan0
+[TX  ->  *] bucket=21375 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21375  peer_BL=[]  my_BL=[]
+[17:17:34] HOP bucket=21376 L1 static ch7 wlan0
+[TX  ->  *] bucket=21376 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21376  peer_BL=[]  my_BL=[]
+[17:17:36] HOP bucket=21377 L1 static ch7 wlan0
+[TX  ->  *] bucket=21377 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21377  peer_BL=[]  my_BL=[]
+[17:17:38] HOP bucket=21378 L1 static ch7 wlan0
+[TX  ->  *] bucket=21378 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21378  peer_BL=[]  my_BL=[]
+[17:17:40] HOP bucket=21379 L1 static ch7 wlan0
+[TX  ->  *] bucket=21379 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21379  peer_BL=[]  my_BL=[]
+[17:17:42] HOP bucket=21380 L1 static ch7 wlan0
+[TX  ->  *] bucket=21380 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21380  peer_BL=[]  my_BL=[]
+[17:17:44] HOP bucket=21381 L1 static ch7 wlan0
+[RX  <- B] bucket=21381  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21381 L1 active=wlan0 ch7  BL=[]
+[17:17:46] HOP bucket=21382 L1 static ch7 wlan0
+[TX  ->  *] bucket=21382 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21382  peer_BL=[]  my_BL=[]
+[17:17:48] HOP bucket=21383 L1 static ch7 wlan0
+[TX  ->  *] bucket=21383 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21383  peer_BL=[]  my_BL=[]
+[17:17:50] HOP bucket=21384 L1 static ch7 wlan0
+[TX  ->  *] bucket=21384 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21384  peer_BL=[]  my_BL=[]
+[17:17:52] HOP bucket=21385 L1 static ch7 wlan0
+[RX  <- B] bucket=21385  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21385 L1 active=wlan0 ch7  BL=[]
+[17:17:54] HOP bucket=21386 L1 static ch7 wlan0
+[TX  ->  *] bucket=21386 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21386  peer_BL=[]  my_BL=[]
+[17:17:56] HOP bucket=21387 L1 static ch7 wlan0
+[RX  <- B] bucket=21387  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21387 L1 active=wlan0 ch7  BL=[]
+[17:17:58] HOP bucket=21388 L1 static ch7 wlan0
+[TX  ->  *] bucket=21388 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21388  peer_BL=[]  my_BL=[]
+[17:18:00] HOP bucket=21389 L1 static ch7 wlan0
+[RX  <- B] bucket=21389  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21389 L1 active=wlan0 ch7  BL=[]
+[17:18:02] HOP bucket=21390 L1 static ch7 wlan0
+[TX  ->  *] bucket=21390 L1 active=wlan0 ch7  BL=[]
+[17:18:04] HOP bucket=21391 L1 static ch7 wlan0
+[TX  ->  *] bucket=21391 L1 active=wlan0 ch7  BL=[]
+[17:18:06] HOP bucket=21392 L1 static ch7 wlan0
+[TX  ->  *] bucket=21392 L1 active=wlan0 ch7  BL=[]
+[17:18:08] HOP bucket=21393 L1 static ch7 wlan0
+[TX  ->  *] bucket=21393 L1 active=wlan0 ch7  BL=[]
+[17:18:10] HOP bucket=21394 L1 static ch7 wlan0
+[TX  ->  *] bucket=21394 L1 active=wlan0 ch7  BL=[]
+[17:18:12] HOP bucket=21395 L1 static ch7 wlan0
+[TX  ->  *] bucket=21395 L1 active=wlan0 ch7  BL=[]
+[17:18:14] HOP bucket=21396 L1 static ch7 wlan0
+[TX  ->  *] bucket=21396 L1 active=wlan0 ch7  BL=[]
+[17:18:16] HOP bucket=21397 L1 static ch7 wlan0
+[TX  ->  *] bucket=21397 L1 active=wlan0 ch7  BL=[]
+[17:18:18] HOP bucket=21398 L1 static ch7 wlan0
+[TX  ->  *] bucket=21398 L1 active=wlan0 ch7  BL=[]
+[17:18:20] HOP bucket=21399 L1 static ch7 wlan0
+[TX  ->  *] bucket=21399 L1 active=wlan0 ch7  BL=[]
+[17:18:22] HOP bucket=21400 L1 static ch7 wlan0
+[TX  ->  *] bucket=21400 L1 active=wlan0 ch7  BL=[]
+[17:18:24] HOP bucket=21401 L1 static ch7 wlan0
+[TX  ->  *] bucket=21401 L1 active=wlan0 ch7  BL=[]
+[17:18:26] HOP bucket=21402 L1 static ch7 wlan0
+[TX  ->  *] bucket=21402 L1 active=wlan0 ch7  BL=[]
+[17:18:28] HOP bucket=21403 L1 static ch7 wlan0
+[TX  ->  *] bucket=21403 L1 active=wlan0 ch7  BL=[]
+[17:18:30] HOP bucket=21404 L1 static ch7 wlan0
+[TX  ->  *] bucket=21404 L1 active=wlan0 ch7  BL=[]
+[17:18:32] HOP bucket=21405 L1 static ch7 wlan0
+[TX  ->  *] bucket=21405 L1 active=wlan0 ch7  BL=[]
+[17:18:34] HOP bucket=21406 L1 static ch7 wlan0
+[TX  ->  *] bucket=21406 L1 active=wlan0 ch7  BL=[]
+[17:18:36] HOP bucket=21407 L1 static ch7 wlan0
+[TX  ->  *] bucket=21407 L1 active=wlan0 ch7  BL=[]
+[17:18:38] HOP bucket=21408 L1 static ch7 wlan0
+[TX  ->  *] bucket=21408 L1 active=wlan0 ch7  BL=[]
+[17:18:40] HOP bucket=21409 L1 static ch7 wlan0
+[TX  ->  *] bucket=21409 L1 active=wlan0 ch7  BL=[]
+[17:18:42] HOP bucket=21410 L1 static ch7 wlan0
+[TX  ->  *] bucket=21410 L1 active=wlan0 ch7  BL=[]
+[17:18:44] HOP bucket=21411 L1 static ch7 wlan0
+[TX  ->  *] bucket=21411 L1 active=wlan0 ch7  BL=[]
+[17:18:46] HOP bucket=21412 L1 static ch7 wlan0
+[TX  ->  *] bucket=21412 L1 active=wlan0 ch7  BL=[]
+[17:18:48] HOP bucket=21413 L1 static ch7 wlan0
+[TX  ->  *] bucket=21413 L1 active=wlan0 ch7  BL=[]
+[17:18:50] HOP bucket=21414 L1 static ch7 wlan0
+[TX  ->  *] bucket=21414 L1 active=wlan0 ch7  BL=[]
+[17:18:52] HOP bucket=21415 L1 static ch7 wlan0
+[TX  ->  *] bucket=21415 L1 active=wlan0 ch7  BL=[]
+[17:18:54] HOP bucket=21416 L1 static ch7 wlan0
+[TX  ->  *] bucket=21416 L1 active=wlan0 ch7  BL=[]
+[17:18:56] HOP bucket=21417 L1 static ch7 wlan0
+[TX  ->  *] bucket=21417 L1 active=wlan0 ch7  BL=[]
+[17:18:58] HOP bucket=21418 L1 static ch7 wlan0
+[TX  ->  *] bucket=21418 L1 active=wlan0 ch7  BL=[]
+[17:19:00] HOP bucket=21419 L1 static ch7 wlan0
+[TX  ->  *] bucket=21419 L1 active=wlan0 ch7  BL=[]
+[17:19:02] HOP bucket=21420 L1 static ch7 wlan0
+[TX  ->  *] bucket=21420 L1 active=wlan0 ch7  BL=[]
+[17:19:04] HOP bucket=21421 L1 static ch7 wlan0
+[TX  ->  *] bucket=21421 L1 active=wlan0 ch7  BL=[]
+[17:19:06] HOP bucket=21422 L1 static ch7 wlan0
+[TX  ->  *] bucket=21422 L1 active=wlan0 ch7  BL=[]
+[17:19:08] HOP bucket=21423 L1 static ch7 wlan0
+[TX  ->  *] bucket=21423 L1 active=wlan0 ch7  BL=[]
+[17:19:10] HOP bucket=21424 L1 static ch7 wlan0
+[TX  ->  *] bucket=21424 L1 active=wlan0 ch7  BL=[]
+[17:19:12] HOP bucket=21425 L1 static ch7 wlan0
+[TX  ->  *] bucket=21425 L1 active=wlan0 ch7  BL=[]
+[17:19:14] HOP bucket=21426 L1 static ch7 wlan0
+[TX  ->  *] bucket=21426 L1 active=wlan0 ch7  BL=[]
+[17:19:16] HOP bucket=21427 L1 static ch7 wlan0
+[TX  ->  *] bucket=21427 L1 active=wlan0 ch7  BL=[]
+[17:19:18] HOP bucket=21428 L1 static ch7 wlan0
+[TX  ->  *] bucket=21428 L1 active=wlan0 ch7  BL=[]
+[17:19:20] HOP bucket=21429 L1 static ch7 wlan0
+[TX  ->  *] bucket=21429 L1 active=wlan0 ch7  BL=[]
+[17:19:22] HOP bucket=21430 L1 static ch7 wlan0
+[TX  ->  *] bucket=21430 L1 active=wlan0 ch7  BL=[]
+[17:19:24] HOP bucket=21431 L1 static ch7 wlan0
+[TX  ->  *] bucket=21431 L1 active=wlan0 ch7  BL=[]
+[17:19:26] HOP bucket=21432 L1 static ch7 wlan0
+[TX  ->  *] bucket=21432 L1 active=wlan0 ch7  BL=[]
+[17:19:28] HOP bucket=21433 L1 static ch7 wlan0
+[TX  ->  *] bucket=21433 L1 active=wlan0 ch7  BL=[]
+[17:19:30] HOP bucket=21434 L1 static ch7 wlan0
+[TX  ->  *] bucket=21434 L1 active=wlan0 ch7  BL=[]
+[17:19:32] HOP bucket=21435 L1 static ch7 wlan0
+[TX  ->  *] bucket=21435 L1 active=wlan0 ch7  BL=[]
+[17:19:34] HOP bucket=21436 L1 static ch7 wlan0
+[TX  ->  *] bucket=21436 L1 active=wlan0 ch7  BL=[]
+[17:19:36] HOP bucket=21437 L1 static ch7 wlan0
+[TX  ->  *] bucket=21437 L1 active=wlan0 ch7  BL=[]
+[17:19:38] HOP bucket=21438 L1 static ch7 wlan0
+[TX  ->  *] bucket=21438 L1 active=wlan0 ch7  BL=[]
+[17:19:40] HOP bucket=21439 L1 static ch7 wlan0
+[TX  ->  *] bucket=21439 L1 active=wlan0 ch7  BL=[]
+[17:19:42] HOP bucket=21440 L1 static ch7 wlan0
+[TX  ->  *] bucket=21440 L1 active=wlan0 ch7  BL=[]
+[17:19:44] HOP bucket=21441 L1 static ch7 wlan0
+[TX  ->  *] bucket=21441 L1 active=wlan0 ch7  BL=[]
+[17:19:46] HOP bucket=21442 L1 static ch7 wlan0
+[TX  ->  *] bucket=21442 L1 active=wlan0 ch7  BL=[]
+[17:19:48] HOP bucket=21443 L1 static ch7 wlan0
+[TX  ->  *] bucket=21443 L1 active=wlan0 ch7  BL=[]
+[17:19:50] HOP bucket=21444 L1 static ch7 wlan0
+[TX  ->  *] bucket=21444 L1 active=wlan0 ch7  BL=[]
+[17:19:52] HOP bucket=21445 L1 static ch7 wlan0
+[TX  ->  *] bucket=21445 L1 active=wlan0 ch7  BL=[]
+[17:19:54] HOP bucket=21446 L1 static ch7 wlan0
+[TX  ->  *] bucket=21446 L1 active=wlan0 ch7  BL=[]
+[17:19:56] HOP bucket=21447 L1 static ch7 wlan0
+[TX  ->  *] bucket=21447 L1 active=wlan0 ch7  BL=[]
+[17:19:58] HOP bucket=21448 L1 static ch7 wlan0
+[TX  ->  *] bucket=21448 L1 active=wlan0 ch7  BL=[]
+[17:20:00] HOP bucket=21449 L1 static ch7 wlan0
+[TX  ->  *] bucket=21449 L1 active=wlan0 ch7  BL=[]
+[17:20:02] HOP bucket=21450 L1 static ch7 wlan0
+[TX  ->  *] bucket=21450 L1 active=wlan0 ch7  BL=[]
+[17:20:04] HOP bucket=21451 L1 static ch7 wlan0
+[TX  ->  *] bucket=21451 L1 active=wlan0 ch7  BL=[]
+[17:20:06] HOP bucket=21452 L1 static ch7 wlan0
+[TX  ->  *] bucket=21452 L1 active=wlan0 ch7  BL=[]
+[17:20:08] HOP bucket=21453 L1 static ch7 wlan0
+[TX  ->  *] bucket=21453 L1 active=wlan0 ch7  BL=[]
+[17:20:10] HOP bucket=21454 L1 static ch7 wlan0
+[TX  ->  *] bucket=21454 L1 active=wlan0 ch7  BL=[]
+[17:20:12] HOP bucket=21455 L1 static ch7 wlan0
+[TX  ->  *] bucket=21455 L1 active=wlan0 ch7  BL=[]
+[17:20:14] HOP bucket=21456 L1 static ch7 wlan0
+[TX  ->  *] bucket=21456 L1 active=wlan0 ch7  BL=[]
+[17:20:16] HOP bucket=21457 L1 static ch7 wlan0
+[TX  ->  *] bucket=21457 L1 active=wlan0 ch7  BL=[]
+[17:20:18] HOP bucket=21458 L1 static ch7 wlan0
+[TX  ->  *] bucket=21458 L1 active=wlan0 ch7  BL=[]
+[17:20:20] HOP bucket=21459 L1 static ch7 wlan0
+[TX  ->  *] bucket=21459 L1 active=wlan0 ch7  BL=[]
+[17:20:22] HOP bucket=21460 L1 static ch7 wlan0
+[TX  ->  *] bucket=21460 L1 active=wlan0 ch7  BL=[]
+[17:20:24] HOP bucket=21461 L1 static ch7 wlan0
+[TX  ->  *] bucket=21461 L1 active=wlan0 ch7  BL=[]
+[17:20:26] HOP bucket=21462 L1 static ch7 wlan0
+[TX  ->  *] bucket=21462 L1 active=wlan0 ch7  BL=[]
+[17:20:28] HOP bucket=21463 L1 static ch7 wlan0
+[TX  ->  *] bucket=21463 L1 active=wlan0 ch7  BL=[]
+[17:20:30] HOP bucket=21464 L1 static ch7 wlan0
+[TX  ->  *] bucket=21464 L1 active=wlan0 ch7  BL=[]
+[17:20:32] HOP bucket=21465 L1 static ch7 wlan0
+[TX  ->  *] bucket=21465 L1 active=wlan0 ch7  BL=[]
+[17:20:34] HOP bucket=21466 L1 static ch7 wlan0
+[TX  ->  *] bucket=21466 L1 active=wlan0 ch7  BL=[]
+[17:20:36] HOP bucket=21467 L1 static ch7 wlan0
+[TX  ->  *] bucket=21467 L1 active=wlan0 ch7  BL=[]
+[17:20:38] HOP bucket=21468 L1 static ch7 wlan0
+[TX  ->  *] bucket=21468 L1 active=wlan0 ch7  BL=[]
+[17:20:40] HOP bucket=21469 L1 static ch7 wlan0
+[TX  ->  *] bucket=21469 L1 active=wlan0 ch7  BL=[]
+[17:20:42] HOP bucket=21470 L1 static ch7 wlan0
+[TX  ->  *] bucket=21470 L1 active=wlan0 ch7  BL=[]
+[17:20:44] HOP bucket=21471 L1 static ch7 wlan0
+[TX  ->  *] bucket=21471 L1 active=wlan0 ch7  BL=[]
+[17:20:46] HOP bucket=21472 L1 static ch7 wlan0
+[TX  ->  *] bucket=21472 L1 active=wlan0 ch7  BL=[]
+[17:20:48] HOP bucket=21473 L1 static ch7 wlan0
+[TX  ->  *] bucket=21473 L1 active=wlan0 ch7  BL=[]
+[17:20:50] HOP bucket=21474 L1 static ch7 wlan0
+[TX  ->  *] bucket=21474 L1 active=wlan0 ch7  BL=[]
+[17:20:52] HOP bucket=21475 L1 static ch7 wlan0
+[TX  ->  *] bucket=21475 L1 active=wlan0 ch7  BL=[]
+[17:20:54] HOP bucket=21476 L1 static ch7 wlan0
+[TX  ->  *] bucket=21476 L1 active=wlan0 ch7  BL=[]
+[17:20:56] HOP bucket=21477 L1 static ch7 wlan0
+[TX  ->  *] bucket=21477 L1 active=wlan0 ch7  BL=[]
+[17:20:58] HOP bucket=21478 L1 static ch7 wlan0
+[TX  ->  *] bucket=21478 L1 active=wlan0 ch7  BL=[]
+[17:21:00] HOP bucket=21479 L1 static ch7 wlan0
+[TX  ->  *] bucket=21479 L1 active=wlan0 ch7  BL=[]
+[17:21:02] HOP bucket=21480 L1 static ch7 wlan0
+[TX  ->  *] bucket=21480 L1 active=wlan0 ch7  BL=[]
+[17:21:04] HOP bucket=21481 L1 static ch7 wlan0
+[TX  ->  *] bucket=21481 L1 active=wlan0 ch7  BL=[]
+[17:21:06] HOP bucket=21482 L1 static ch7 wlan0
+[TX  ->  *] bucket=21482 L1 active=wlan0 ch7  BL=[]
+[17:21:08] HOP bucket=21483 L1 static ch7 wlan0
+[TX  ->  *] bucket=21483 L1 active=wlan0 ch7  BL=[]
+[17:21:10] HOP bucket=21484 L1 static ch7 wlan0
+[TX  ->  *] bucket=21484 L1 active=wlan0 ch7  BL=[]
+[17:21:12] HOP bucket=21485 L1 static ch7 wlan0
+[TX  ->  *] bucket=21485 L1 active=wlan0 ch7  BL=[]
+[17:21:14] HOP bucket=21486 L1 static ch7 wlan0
+[TX  ->  *] bucket=21486 L1 active=wlan0 ch7  BL=[]
+[17:21:16] HOP bucket=21487 L1 static ch7 wlan0
+[TX  ->  *] bucket=21487 L1 active=wlan0 ch7  BL=[]
+[17:21:18] HOP bucket=21488 L1 static ch7 wlan0
+[TX  ->  *] bucket=21488 L1 active=wlan0 ch7  BL=[]
+[17:21:20] HOP bucket=21489 L1 static ch7 wlan0
+[TX  ->  *] bucket=21489 L1 active=wlan0 ch7  BL=[]
+[17:21:22] HOP bucket=21490 L1 static ch7 wlan0
+[TX  ->  *] bucket=21490 L1 active=wlan0 ch7  BL=[]
+[17:21:24] HOP bucket=21491 L1 static ch7 wlan0
+[TX  ->  *] bucket=21491 L1 active=wlan0 ch7  BL=[]
+[17:21:26] HOP bucket=21492 L1 static ch7 wlan0
+[TX  ->  *] bucket=21492 L1 active=wlan0 ch7  BL=[]
+[17:21:28] HOP bucket=21493 L1 static ch7 wlan0
+[TX  ->  *] bucket=21493 L1 active=wlan0 ch7  BL=[]
+[17:21:30] HOP bucket=21494 L1 static ch7 wlan0
+[TX  ->  *] bucket=21494 L1 active=wlan0 ch7  BL=[]
+[17:21:32] HOP bucket=21495 L1 static ch7 wlan0
+[TX  ->  *] bucket=21495 L1 active=wlan0 ch7  BL=[]
+[17:21:34] HOP bucket=21496 L1 static ch7 wlan0
+[TX  ->  *] bucket=21496 L1 active=wlan0 ch7  BL=[]
+[17:21:36] HOP bucket=21497 L1 static ch7 wlan0
+[TX  ->  *] bucket=21497 L1 active=wlan0 ch7  BL=[]
+[17:21:38] HOP bucket=21498 L1 static ch7 wlan0
+[TX  ->  *] bucket=21498 L1 active=wlan0 ch7  BL=[]
+[17:21:40] HOP bucket=21499 L1 static ch7 wlan0
+[TX  ->  *] bucket=21499 L1 active=wlan0 ch7  BL=[]
+[17:21:42] HOP bucket=21500 L1 static ch7 wlan0
+[TX  ->  *] bucket=21500 L1 active=wlan0 ch7  BL=[]
+[17:21:44] HOP bucket=21501 L1 static ch7 wlan0
+[TX  ->  *] bucket=21501 L1 active=wlan0 ch7  BL=[]
+[17:21:46] HOP bucket=21502 L1 static ch7 wlan0
+[TX  ->  *] bucket=21502 L1 active=wlan0 ch7  BL=[]
+[17:21:48] HOP bucket=21503 L1 static ch7 wlan0
+[TX  ->  *] bucket=21503 L1 active=wlan0 ch7  BL=[]
+[17:21:50] HOP bucket=21504 L1 static ch7 wlan0
+[TX  ->  *] bucket=21504 L1 active=wlan0 ch7  BL=[]
+[17:21:52] HOP bucket=21505 L1 static ch7 wlan0
+[TX  ->  *] bucket=21505 L1 active=wlan0 ch7  BL=[]
+[17:21:54] HOP bucket=21506 L1 static ch7 wlan0
+[TX  ->  *] bucket=21506 L1 active=wlan0 ch7  BL=[]
+[17:21:56] HOP bucket=21507 L1 static ch7 wlan0
+[TX  ->  *] bucket=21507 L1 active=wlan0 ch7  BL=[]
+[17:21:58] HOP bucket=21508 L1 static ch7 wlan0
+[TX  ->  *] bucket=21508 L1 active=wlan0 ch7  BL=[]
+[17:22:00] HOP bucket=21509 L1 static ch7 wlan0
+[TX  ->  *] bucket=21509 L1 active=wlan0 ch7  BL=[]
+[17:22:02] HOP bucket=21510 L1 static ch7 wlan0
+[TX  ->  *] bucket=21510 L1 active=wlan0 ch7  BL=[]
+[17:22:04] HOP bucket=21511 L1 static ch7 wlan0
+[TX  ->  *] bucket=21511 L1 active=wlan0 ch7  BL=[]
+[17:22:06] HOP bucket=21512 L1 static ch7 wlan0
+[TX  ->  *] bucket=21512 L1 active=wlan0 ch7  BL=[]
+[17:22:08] HOP bucket=21513 L1 static ch7 wlan0
+[TX  ->  *] bucket=21513 L1 active=wlan0 ch7  BL=[]
+[17:22:10] HOP bucket=21514 L1 static ch7 wlan0
+[TX  ->  *] bucket=21514 L1 active=wlan0 ch7  BL=[]
+[17:22:12] HOP bucket=21515 L1 static ch7 wlan0
+[TX  ->  *] bucket=21515 L1 active=wlan0 ch7  BL=[]
+[17:22:14] HOP bucket=21516 L1 static ch7 wlan0
+[TX  ->  *] bucket=21516 L1 active=wlan0 ch7  BL=[]
+[17:22:16] HOP bucket=21517 L1 static ch7 wlan0
+[TX  ->  *] bucket=21517 L1 active=wlan0 ch7  BL=[]
+[17:22:18] HOP bucket=21518 L1 static ch7 wlan0
+[TX  ->  *] bucket=21518 L1 active=wlan0 ch7  BL=[]
+[17:22:20] HOP bucket=21519 L1 static ch7 wlan0
+[TX  ->  *] bucket=21519 L1 active=wlan0 ch7  BL=[]
+[17:22:22] HOP bucket=21520 L1 static ch7 wlan0
+[TX  ->  *] bucket=21520 L1 active=wlan0 ch7  BL=[]
+[17:22:24] HOP bucket=21521 L1 static ch7 wlan0
+[TX  ->  *] bucket=21521 L1 active=wlan0 ch7  BL=[]
+[17:22:26] HOP bucket=21522 L1 static ch7 wlan0
+[TX  ->  *] bucket=21522 L1 active=wlan0 ch7  BL=[]
+[17:22:28] HOP bucket=21523 L1 static ch7 wlan0
+[TX  ->  *] bucket=21523 L1 active=wlan0 ch7  BL=[]
+[17:22:30] HOP bucket=21524 L1 static ch7 wlan0
+[TX  ->  *] bucket=21524 L1 active=wlan0 ch7  BL=[]
+[17:22:32] HOP bucket=21525 L1 static ch7 wlan0
+[TX  ->  *] bucket=21525 L1 active=wlan0 ch7  BL=[]
+[17:22:34] HOP bucket=21526 L1 static ch7 wlan0
+[TX  ->  *] bucket=21526 L1 active=wlan0 ch7  BL=[]
+[17:22:36] HOP bucket=21527 L1 static ch7 wlan0
+[TX  ->  *] bucket=21527 L1 active=wlan0 ch7  BL=[]
+[17:22:38] HOP bucket=21528 L1 static ch7 wlan0
+[TX  ->  *] bucket=21528 L1 active=wlan0 ch7  BL=[]
+[17:22:40] HOP bucket=21529 L1 static ch7 wlan0
+[TX  ->  *] bucket=21529 L1 active=wlan0 ch7  BL=[]
+[17:22:42] HOP bucket=21530 L1 static ch7 wlan0
+[TX  ->  *] bucket=21530 L1 active=wlan0 ch7  BL=[]
+[17:22:44] HOP bucket=21531 L1 static ch7 wlan0
+[TX  ->  *] bucket=21531 L1 active=wlan0 ch7  BL=[]
+[17:22:46] HOP bucket=21532 L1 static ch7 wlan0
+[TX  ->  *] bucket=21532 L1 active=wlan0 ch7  BL=[]
+[17:22:48] HOP bucket=21533 L1 static ch7 wlan0
+[TX  ->  *] bucket=21533 L1 active=wlan0 ch7  BL=[]
+[17:22:50] HOP bucket=21534 L1 static ch7 wlan0
+[TX  ->  *] bucket=21534 L1 active=wlan0 ch7  BL=[]
+[17:22:52] HOP bucket=21535 L1 static ch7 wlan0
+[TX  ->  *] bucket=21535 L1 active=wlan0 ch7  BL=[]
+[17:22:54] HOP bucket=21536 L1 static ch7 wlan0
+[TX  ->  *] bucket=21536 L1 active=wlan0 ch7  BL=[]
+[17:22:56] HOP bucket=21537 L1 static ch7 wlan0
+[TX  ->  *] bucket=21537 L1 active=wlan0 ch7  BL=[]
+[17:22:58] HOP bucket=21538 L1 static ch7 wlan0
+[TX  ->  *] bucket=21538 L1 active=wlan0 ch7  BL=[]
+[17:23:00] HOP bucket=21539 L1 static ch7 wlan0
+[TX  ->  *] bucket=21539 L1 active=wlan0 ch7  BL=[]
+[17:23:02] HOP bucket=21540 L1 static ch7 wlan0
+[TX  ->  *] bucket=21540 L1 active=wlan0 ch7  BL=[]
+[17:23:04] HOP bucket=21541 L1 static ch7 wlan0
+[TX  ->  *] bucket=21541 L1 active=wlan0 ch7  BL=[]
+[17:23:06] HOP bucket=21542 L1 static ch7 wlan0
+[TX  ->  *] bucket=21542 L1 active=wlan0 ch7  BL=[]
+[17:23:08] HOP bucket=21543 L1 static ch7 wlan0
+[TX  ->  *] bucket=21543 L1 active=wlan0 ch7  BL=[]
+[17:23:10] HOP bucket=21544 L1 static ch7 wlan0
+[TX  ->  *] bucket=21544 L1 active=wlan0 ch7  BL=[]
+[17:23:12] HOP bucket=21545 L1 static ch7 wlan0
+[TX  ->  *] bucket=21545 L1 active=wlan0 ch7  BL=[]
+[17:23:14] HOP bucket=21546 L1 static ch7 wlan0
+[TX  ->  *] bucket=21546 L1 active=wlan0 ch7  BL=[]
+[17:23:16] HOP bucket=21547 L1 static ch7 wlan0
+[TX  ->  *] bucket=21547 L1 active=wlan0 ch7  BL=[]
+[17:23:18] HOP bucket=21548 L1 static ch7 wlan0
+[TX  ->  *] bucket=21548 L1 active=wlan0 ch7  BL=[]
+[17:23:20] HOP bucket=21549 L1 static ch7 wlan0
+[TX  ->  *] bucket=21549 L1 active=wlan0 ch7  BL=[]
+[17:23:22] HOP bucket=21550 L1 static ch7 wlan0
+[TX  ->  *] bucket=21550 L1 active=wlan0 ch7  BL=[]
+[17:23:24] HOP bucket=21551 L1 static ch7 wlan0
+[TX  ->  *] bucket=21551 L1 active=wlan0 ch7  BL=[]
+[17:23:26] HOP bucket=21552 L1 static ch7 wlan0
+[TX  ->  *] bucket=21552 L1 active=wlan0 ch7  BL=[]
+[17:23:28] HOP bucket=21553 L1 static ch7 wlan0
+[TX  ->  *] bucket=21553 L1 active=wlan0 ch7  BL=[]
+[17:23:30] HOP bucket=21554 L1 static ch7 wlan0
+[TX  ->  *] bucket=21554 L1 active=wlan0 ch7  BL=[]
+[17:23:32] HOP bucket=21555 L1 static ch7 wlan0
+[TX  ->  *] bucket=21555 L1 active=wlan0 ch7  BL=[]
+[17:23:34] HOP bucket=21556 L1 static ch7 wlan0
+[TX  ->  *] bucket=21556 L1 active=wlan0 ch7  BL=[]
+[17:23:36] HOP bucket=21557 L1 static ch7 wlan0
+[TX  ->  *] bucket=21557 L1 active=wlan0 ch7  BL=[]
+[17:23:38] HOP bucket=21558 L1 static ch7 wlan0
+[TX  ->  *] bucket=21558 L1 active=wlan0 ch7  BL=[]
+[17:23:40] HOP bucket=21559 L1 static ch7 wlan0
+[TX  ->  *] bucket=21559 L1 active=wlan0 ch7  BL=[]
+[17:23:42] HOP bucket=21560 L1 static ch7 wlan0
+[TX  ->  *] bucket=21560 L1 active=wlan0 ch7  BL=[]
+[17:23:44] HOP bucket=21561 L1 static ch7 wlan0
+[TX  ->  *] bucket=21561 L1 active=wlan0 ch7  BL=[]
+[17:23:46] HOP bucket=21562 L1 static ch7 wlan0
+[TX  ->  *] bucket=21562 L1 active=wlan0 ch7  BL=[]
+[17:23:48] HOP bucket=21563 L1 static ch7 wlan0
+[TX  ->  *] bucket=21563 L1 active=wlan0 ch7  BL=[]
+[17:23:50] HOP bucket=21564 L1 static ch7 wlan0
+[TX  ->  *] bucket=21564 L1 active=wlan0 ch7  BL=[]
+[17:23:52] HOP bucket=21565 L1 static ch7 wlan0
+[TX  ->  *] bucket=21565 L1 active=wlan0 ch7  BL=[]
+[17:23:54] HOP bucket=21566 L1 static ch7 wlan0
+[TX  ->  *] bucket=21566 L1 active=wlan0 ch7  BL=[]
+[17:23:56] HOP bucket=21567 L1 static ch7 wlan0
+[TX  ->  *] bucket=21567 L1 active=wlan0 ch7  BL=[]
+[17:23:58] HOP bucket=21568 L1 static ch7 wlan0
+[TX  ->  *] bucket=21568 L1 active=wlan0 ch7  BL=[]
+[17:24:00] HOP bucket=21569 L1 static ch7 wlan0
+[TX  ->  *] bucket=21569 L1 active=wlan0 ch7  BL=[]
+[17:24:02] HOP bucket=21570 L1 static ch7 wlan0
+[TX  ->  *] bucket=21570 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21570  peer_BL=[]  my_BL=[]
+[17:24:04] HOP bucket=21571 L1 static ch7 wlan0
+[TX  ->  *] bucket=21571 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21571  peer_BL=[]  my_BL=[]
+[17:24:06] HOP bucket=21572 L1 static ch7 wlan0
+[TX  ->  *] bucket=21572 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21572  peer_BL=[]  my_BL=[]
+[17:24:08] HOP bucket=21573 L1 static ch7 wlan0
+[TX  ->  *] bucket=21573 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21573  peer_BL=[]  my_BL=[]
+[17:24:10] HOP bucket=21574 L1 static ch7 wlan0
+[TX  ->  *] bucket=21574 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21574  peer_BL=[]  my_BL=[]
+[17:24:12] HOP bucket=21575 L1 static ch7 wlan0
+[TX  ->  *] bucket=21575 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21575  peer_BL=[]  my_BL=[]
+[17:24:14] HOP bucket=21576 L1 static ch7 wlan0
+[TX  ->  *] bucket=21576 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21576  peer_BL=[]  my_BL=[]
+[17:24:16] HOP bucket=21577 L1 static ch7 wlan0
+[TX  ->  *] bucket=21577 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21577  peer_BL=[]  my_BL=[]
+[17:24:18] HOP bucket=21578 L1 static ch7 wlan0
+[TX  ->  *] bucket=21578 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21578  peer_BL=[]  my_BL=[]
+[17:24:20] HOP bucket=21579 L1 static ch7 wlan0
+[TX  ->  *] bucket=21579 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21579  peer_BL=[]  my_BL=[]
+[17:24:22] HOP bucket=21580 L1 static ch7 wlan0
+[TX  ->  *] bucket=21580 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21580  peer_BL=[]  my_BL=[]
+[17:24:24] HOP bucket=21581 L1 static ch7 wlan0
+[TX  ->  *] bucket=21581 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21581  peer_BL=[]  my_BL=[]
+[17:24:26] HOP bucket=21582 L1 static ch7 wlan0
+[TX  ->  *] bucket=21582 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21582  peer_BL=[]  my_BL=[]
+[17:24:28] HOP bucket=21583 L1 static ch7 wlan0
+[TX  ->  *] bucket=21583 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21583  peer_BL=[]  my_BL=[]
+[17:24:30] HOP bucket=21584 L1 static ch7 wlan0
+[RX  <- B] bucket=21584  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21584 L1 active=wlan0 ch7  BL=[]
+[17:24:32] HOP bucket=21585 L1 static ch7 wlan0
+[TX  ->  *] bucket=21585 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21585  peer_BL=[]  my_BL=[]
+[17:24:34] HOP bucket=21586 L1 static ch7 wlan0
+[RX  <- B] bucket=21586  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21586 L1 active=wlan0 ch7  BL=[]
+[17:24:36] HOP bucket=21587 L1 static ch7 wlan0
+[TX  ->  *] bucket=21587 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21587  peer_BL=[]  my_BL=[]
+[17:24:38] HOP bucket=21588 L1 static ch7 wlan0
+[TX  ->  *] bucket=21588 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21588  peer_BL=[]  my_BL=[]
+[17:24:40] HOP bucket=21589 L1 static ch7 wlan0
+[TX  ->  *] bucket=21589 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21589  peer_BL=[]  my_BL=[]
+[17:24:42] HOP bucket=21590 L1 static ch7 wlan0
+[TX  ->  *] bucket=21590 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21590  peer_BL=[]  my_BL=[]
+[17:24:44] HOP bucket=21591 L1 static ch7 wlan0
+[TX  ->  *] bucket=21591 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21591  peer_BL=[]  my_BL=[]
+[17:24:46] HOP bucket=21592 L1 static ch7 wlan0
+[TX  ->  *] bucket=21592 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21592  peer_BL=[]  my_BL=[]
+[17:24:48] HOP bucket=21593 L1 static ch7 wlan0
+[TX  ->  *] bucket=21593 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21593  peer_BL=[]  my_BL=[]
+[17:24:50] HOP bucket=21594 L1 static ch7 wlan0
+[TX  ->  *] bucket=21594 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21594  peer_BL=[]  my_BL=[]
+[17:24:52] HOP bucket=21595 L1 static ch7 wlan0
+[RX  <- B] bucket=21595  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21595 L1 active=wlan0 ch7  BL=[]
+[17:24:54] HOP bucket=21596 L1 static ch7 wlan0
+[TX  ->  *] bucket=21596 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21596  peer_BL=[]  my_BL=[]
+[17:24:56] HOP bucket=21597 L1 static ch7 wlan0
+[TX  ->  *] bucket=21597 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21597  peer_BL=[]  my_BL=[]
+[17:24:58] HOP bucket=21598 L1 static ch7 wlan0
+[TX  ->  *] bucket=21598 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21598  peer_BL=[]  my_BL=[]
+[17:25:00] HOP bucket=21599 L1 static ch7 wlan0
+[TX  ->  *] bucket=21599 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21599  peer_BL=[]  my_BL=[]
+[17:25:02] HOP bucket=21600 L1 static ch7 wlan0
+[TX  ->  *] bucket=21600 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21600  peer_BL=[]  my_BL=[]
+[17:25:04] HOP bucket=21601 L1 static ch7 wlan0
+[TX  ->  *] bucket=21601 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21601  peer_BL=[]  my_BL=[]
+[17:25:06] HOP bucket=21602 L1 static ch7 wlan0
+[RX  <- B] bucket=21602  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21602 L1 active=wlan0 ch7  BL=[]
+[17:25:08] HOP bucket=21603 L1 static ch7 wlan0
+[RX  <- B] bucket=21603  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21603 L1 active=wlan0 ch7  BL=[]
+[17:25:10] HOP bucket=21604 L1 static ch7 wlan0
+[TX  ->  *] bucket=21604 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21604  peer_BL=[]  my_BL=[]
+[17:25:12] HOP bucket=21605 L1 static ch7 wlan0
+[TX  ->  *] bucket=21605 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21605  peer_BL=[]  my_BL=[]
+[17:25:14] HOP bucket=21606 L1 static ch7 wlan0
+[TX  ->  *] bucket=21606 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21606  peer_BL=[]  my_BL=[]
+[17:25:16] HOP bucket=21607 L1 static ch7 wlan0
+[TX  ->  *] bucket=21607 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21607  peer_BL=[]  my_BL=[]
+[17:25:18] HOP bucket=21608 L1 static ch7 wlan0
+[TX  ->  *] bucket=21608 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21608  peer_BL=[]  my_BL=[]
+[17:25:20] HOP bucket=21609 L1 static ch7 wlan0
+[TX  ->  *] bucket=21609 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21609  peer_BL=[]  my_BL=[]
+[17:25:22] HOP bucket=21610 L1 static ch7 wlan0
+[RX  <- B] bucket=21610  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21610 L1 active=wlan0 ch7  BL=[]
+[17:25:24] HOP bucket=21611 L1 static ch7 wlan0
+[TX  ->  *] bucket=21611 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21611  peer_BL=[]  my_BL=[]
+[17:25:26] HOP bucket=21612 L1 static ch7 wlan0
+[TX  ->  *] bucket=21612 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21612  peer_BL=[]  my_BL=[]
+[17:25:28] HOP bucket=21613 L1 static ch7 wlan0
+[RX  <- B] bucket=21613  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21613 L1 active=wlan0 ch7  BL=[]
+[17:25:30] HOP bucket=21614 L1 static ch7 wlan0
+[RX  <- B] bucket=21614  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21614 L1 active=wlan0 ch7  BL=[]
+[17:25:32] HOP bucket=21615 L1 static ch7 wlan0
+[TX  ->  *] bucket=21615 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21615  peer_BL=[]  my_BL=[]
+[17:25:34] HOP bucket=21616 L1 static ch7 wlan0
+[TX  ->  *] bucket=21616 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21616  peer_BL=[]  my_BL=[]
+[17:25:36] HOP bucket=21617 L1 static ch7 wlan0
+[TX  ->  *] bucket=21617 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21617  peer_BL=[]  my_BL=[]
+[17:25:38] HOP bucket=21618 L1 static ch7 wlan0
+[TX  ->  *] bucket=21618 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21618  peer_BL=[]  my_BL=[]
+[17:25:40] HOP bucket=21619 L1 static ch7 wlan0
+[TX  ->  *] bucket=21619 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21619  peer_BL=[]  my_BL=[]
+[17:25:42] HOP bucket=21620 L1 static ch7 wlan0
+[TX  ->  *] bucket=21620 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21620  peer_BL=[]  my_BL=[]
+[17:25:44] HOP bucket=21621 L1 static ch7 wlan0
+[TX  ->  *] bucket=21621 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21621  peer_BL=[]  my_BL=[]
+[17:25:46] HOP bucket=21622 L1 static ch7 wlan0
+[TX  ->  *] bucket=21622 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21622  peer_BL=[]  my_BL=[]
+[17:25:48] HOP bucket=21623 L1 static ch7 wlan0
+[RX  <- B] bucket=21623  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21623 L1 active=wlan0 ch7  BL=[]
+[17:25:50] HOP bucket=21624 L1 static ch7 wlan0
+[TX  ->  *] bucket=21624 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21624  peer_BL=[]  my_BL=[]
+[17:25:52] HOP bucket=21625 L1 static ch7 wlan0
+[TX  ->  *] bucket=21625 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21625  peer_BL=[]  my_BL=[]
+[17:25:54] HOP bucket=21626 L1 static ch7 wlan0
+[TX  ->  *] bucket=21626 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21626  peer_BL=[]  my_BL=[]
+[17:25:56] HOP bucket=21627 L1 static ch7 wlan0
+[TX  ->  *] bucket=21627 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21627  peer_BL=[]  my_BL=[]
+[17:25:58] HOP bucket=21628 L1 static ch7 wlan0
+[RX  <- B] bucket=21628  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21628 L1 active=wlan0 ch7  BL=[]
+[17:26:00] HOP bucket=21629 L1 static ch7 wlan0
+[RX  <- B] bucket=21629  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21629 L1 active=wlan0 ch7  BL=[]
+[17:26:02] HOP bucket=21630 L1 static ch7 wlan0
+[TX  ->  *] bucket=21630 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21630  peer_BL=[]  my_BL=[]
+[17:26:04] HOP bucket=21631 L1 static ch7 wlan0
+[TX  ->  *] bucket=21631 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21631  peer_BL=[]  my_BL=[]
+[17:26:06] HOP bucket=21632 L1 static ch7 wlan0
+[TX  ->  *] bucket=21632 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21632  peer_BL=[]  my_BL=[]
+[17:26:08] HOP bucket=21633 L1 static ch7 wlan0
+[TX  ->  *] bucket=21633 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21633  peer_BL=[]  my_BL=[]
+[17:26:10] HOP bucket=21634 L1 static ch7 wlan0
+[TX  ->  *] bucket=21634 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21634  peer_BL=[]  my_BL=[]
+[17:26:12] HOP bucket=21635 L1 static ch7 wlan0
+[TX  ->  *] bucket=21635 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21635  peer_BL=[]  my_BL=[]
+[17:26:14] HOP bucket=21636 L1 static ch7 wlan0
+[TX  ->  *] bucket=21636 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21636  peer_BL=[]  my_BL=[]
+[17:26:16] HOP bucket=21637 L1 static ch7 wlan0
+[TX  ->  *] bucket=21637 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21637  peer_BL=[]  my_BL=[]
+[17:26:18] HOP bucket=21638 L1 static ch7 wlan0
+[TX  ->  *] bucket=21638 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21638  peer_BL=[]  my_BL=[]
+[17:26:20] HOP bucket=21639 L1 static ch7 wlan0
+[RX  <- B] bucket=21639  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21639 L1 active=wlan0 ch7  BL=[]
+[17:26:22] HOP bucket=21640 L1 static ch7 wlan0
+[RX  <- B] bucket=21640  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21640 L1 active=wlan0 ch7  BL=[]
+[17:26:24] HOP bucket=21641 L1 static ch7 wlan0
+[TX  ->  *] bucket=21641 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21641  peer_BL=[]  my_BL=[]
+[17:26:26] HOP bucket=21642 L1 static ch7 wlan0
+[TX  ->  *] bucket=21642 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21642  peer_BL=[]  my_BL=[]
+[17:26:28] HOP bucket=21643 L1 static ch7 wlan0
+[TX  ->  *] bucket=21643 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21643  peer_BL=[]  my_BL=[]
+[17:26:30] HOP bucket=21644 L1 static ch7 wlan0
+[TX  ->  *] bucket=21644 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21644  peer_BL=[]  my_BL=[]
+[17:26:32] HOP bucket=21645 L1 static ch7 wlan0
+[TX  ->  *] bucket=21645 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21645  peer_BL=[]  my_BL=[]
+[17:26:34] HOP bucket=21646 L1 static ch7 wlan0
+[TX  ->  *] bucket=21646 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21646  peer_BL=[]  my_BL=[]
+[17:26:36] HOP bucket=21647 L1 static ch7 wlan0
+[RX  <- B] bucket=21647  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21647 L1 active=wlan0 ch7  BL=[]
+[17:26:38] HOP bucket=21648 L1 static ch7 wlan0
+[TX  ->  *] bucket=21648 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21648  peer_BL=[]  my_BL=[]
+[17:26:40] HOP bucket=21649 L1 static ch7 wlan0
+[TX  ->  *] bucket=21649 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21649  peer_BL=[]  my_BL=[]
+[17:26:42] HOP bucket=21650 L1 static ch7 wlan0
+[TX  ->  *] bucket=21650 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21650  peer_BL=[]  my_BL=[]
+[17:26:44] HOP bucket=21651 L1 static ch7 wlan0
+[TX  ->  *] bucket=21651 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21651  peer_BL=[]  my_BL=[]
+[17:26:46] HOP bucket=21652 L1 static ch7 wlan0
+[RX  <- B] bucket=21652  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21652 L1 active=wlan0 ch7  BL=[]
+[17:26:48] HOP bucket=21653 L1 static ch7 wlan0
+[TX  ->  *] bucket=21653 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21653  peer_BL=[]  my_BL=[]
+[17:26:50] HOP bucket=21654 L1 static ch7 wlan0
+[TX  ->  *] bucket=21654 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21654  peer_BL=[]  my_BL=[]
+[17:26:52] HOP bucket=21655 L1 static ch7 wlan0
+[TX  ->  *] bucket=21655 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21655  peer_BL=[]  my_BL=[]
+[17:26:54] HOP bucket=21656 L1 static ch7 wlan0
+[TX  ->  *] bucket=21656 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21656  peer_BL=[]  my_BL=[]
+[17:26:56] HOP bucket=21657 L1 static ch7 wlan0
+[TX  ->  *] bucket=21657 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21657  peer_BL=[]  my_BL=[]
+[17:26:58] HOP bucket=21658 L1 static ch7 wlan0
+[TX  ->  *] bucket=21658 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21658  peer_BL=[]  my_BL=[]
+[17:27:00] HOP bucket=21659 L1 static ch7 wlan0
+[TX  ->  *] bucket=21659 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21659  peer_BL=[]  my_BL=[]
+[17:27:02] HOP bucket=21660 L1 static ch7 wlan0
+[TX  ->  *] bucket=21660 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21660  peer_BL=[]  my_BL=[]
+[17:27:04] HOP bucket=21661 L1 static ch7 wlan0
+[TX  ->  *] bucket=21661 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21661  peer_BL=[]  my_BL=[]
+[17:27:06] HOP bucket=21662 L1 static ch7 wlan0
+[TX  ->  *] bucket=21662 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21662  peer_BL=[]  my_BL=[]
+[17:27:08] HOP bucket=21663 L1 static ch7 wlan0
+[TX  ->  *] bucket=21663 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21663  peer_BL=[]  my_BL=[]
+[17:27:10] HOP bucket=21664 L1 static ch7 wlan0
+[TX  ->  *] bucket=21664 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21664  peer_BL=[]  my_BL=[]
+[17:27:12] HOP bucket=21665 L1 static ch7 wlan0
+[RX  <- B] bucket=21665  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21665 L1 active=wlan0 ch7  BL=[]
+[17:27:14] HOP bucket=21666 L1 static ch7 wlan0
+[TX  ->  *] bucket=21666 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21666  peer_BL=[]  my_BL=[]
+[17:27:16] HOP bucket=21667 L1 static ch7 wlan0
+[TX  ->  *] bucket=21667 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21667  peer_BL=[]  my_BL=[]
+[17:27:18] HOP bucket=21668 L1 static ch7 wlan0
+[TX  ->  *] bucket=21668 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21668  peer_BL=[]  my_BL=[]
+[17:27:20] HOP bucket=21669 L1 static ch7 wlan0
+[TX  ->  *] bucket=21669 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21669  peer_BL=[]  my_BL=[]
+[17:27:22] HOP bucket=21670 L1 static ch7 wlan0
+[TX  ->  *] bucket=21670 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21670  peer_BL=[]  my_BL=[]
+[17:27:24] HOP bucket=21671 L1 static ch7 wlan0
+[TX  ->  *] bucket=21671 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21671  peer_BL=[]  my_BL=[]
+[17:27:26] HOP bucket=21672 L1 static ch7 wlan0
+[TX  ->  *] bucket=21672 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21672  peer_BL=[]  my_BL=[]
+[17:27:28] HOP bucket=21673 L1 static ch7 wlan0
+[TX  ->  *] bucket=21673 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21673  peer_BL=[]  my_BL=[]
+[17:27:30] HOP bucket=21674 L1 static ch7 wlan0
+[TX  ->  *] bucket=21674 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21674  peer_BL=[]  my_BL=[]
+[17:27:32] HOP bucket=21675 L1 static ch7 wlan0
+[TX  ->  *] bucket=21675 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21675  peer_BL=[]  my_BL=[]
+[17:27:34] HOP bucket=21676 L1 static ch7 wlan0
+[TX  ->  *] bucket=21676 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21676  peer_BL=[]  my_BL=[]
+[17:27:36] HOP bucket=21677 L1 static ch7 wlan0
+[TX  ->  *] bucket=21677 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21677  peer_BL=[]  my_BL=[]
+[17:27:38] HOP bucket=21678 L1 static ch7 wlan0
+[TX  ->  *] bucket=21678 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21678  peer_BL=[]  my_BL=[]
+[17:27:40] HOP bucket=21679 L1 static ch7 wlan0
+[TX  ->  *] bucket=21679 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21679  peer_BL=[]  my_BL=[]
+[17:27:42] HOP bucket=21680 L1 static ch7 wlan0
+[TX  ->  *] bucket=21680 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21680  peer_BL=[]  my_BL=[]
+[17:27:44] HOP bucket=21681 L1 static ch7 wlan0
+[RX  <- B] bucket=21681  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21681 L1 active=wlan0 ch7  BL=[]
+[17:27:46] HOP bucket=21682 L1 static ch7 wlan0
+[TX  ->  *] bucket=21682 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21682  peer_BL=[]  my_BL=[]
+[17:27:48] HOP bucket=21683 L1 static ch7 wlan0
+[TX  ->  *] bucket=21683 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21683  peer_BL=[]  my_BL=[]
+[17:27:50] HOP bucket=21684 L1 static ch7 wlan0
+[TX  ->  *] bucket=21684 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21684  peer_BL=[]  my_BL=[]
+[17:27:52] HOP bucket=21685 L1 static ch7 wlan0
+[TX  ->  *] bucket=21685 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21685  peer_BL=[]  my_BL=[]
+[17:27:54] HOP bucket=21686 L1 static ch7 wlan0
+[TX  ->  *] bucket=21686 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21686  peer_BL=[]  my_BL=[]
+[17:27:56] HOP bucket=21687 L1 static ch7 wlan0
+[TX  ->  *] bucket=21687 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21687  peer_BL=[]  my_BL=[]
+[17:27:58] HOP bucket=21688 L1 static ch7 wlan0
+[TX  ->  *] bucket=21688 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21688  peer_BL=[]  my_BL=[]
+[17:28:00] HOP bucket=21689 L1 static ch7 wlan0
+[TX  ->  *] bucket=21689 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21689  peer_BL=[]  my_BL=[]
+[17:28:02] HOP bucket=21690 L1 static ch7 wlan0
+[TX  ->  *] bucket=21690 L1 active=wlan0 ch7  BL=[]
+[17:28:04] HOP bucket=21691 L1 static ch7 wlan0
+[TX  ->  *] bucket=21691 L1 active=wlan0 ch7  BL=[]
+[17:28:06] HOP bucket=21692 L1 static ch7 wlan0
+[TX  ->  *] bucket=21692 L1 active=wlan0 ch7  BL=[]
+[17:28:08] HOP bucket=21693 L1 static ch7 wlan0
+[TX  ->  *] bucket=21693 L1 active=wlan0 ch7  BL=[]
+[17:28:10] HOP bucket=21694 L1 static ch7 wlan0
+[TX  ->  *] bucket=21694 L1 active=wlan0 ch7  BL=[]
+[17:28:12] HOP bucket=21695 L1 static ch7 wlan0
+[TX  ->  *] bucket=21695 L1 active=wlan0 ch7  BL=[]
+[17:28:14] HOP bucket=21696 L1 static ch7 wlan0
+[TX  ->  *] bucket=21696 L1 active=wlan0 ch7  BL=[]
+[17:28:16] HOP bucket=21697 L1 static ch7 wlan0
+[TX  ->  *] bucket=21697 L1 active=wlan0 ch7  BL=[]
+[17:28:18] HOP bucket=21698 L1 static ch7 wlan0
+[TX  ->  *] bucket=21698 L1 active=wlan0 ch7  BL=[]
+[17:28:20] HOP bucket=21699 L1 static ch7 wlan0
+[TX  ->  *] bucket=21699 L1 active=wlan0 ch7  BL=[]
+[17:28:22] HOP bucket=21700 L1 static ch7 wlan0
+[TX  ->  *] bucket=21700 L1 active=wlan0 ch7  BL=[]
+[17:28:24] HOP bucket=21701 L1 static ch7 wlan0
+[TX  ->  *] bucket=21701 L1 active=wlan0 ch7  BL=[]
+[17:28:26] HOP bucket=21702 L1 static ch7 wlan0
+[TX  ->  *] bucket=21702 L1 active=wlan0 ch7  BL=[]
+[17:28:28] HOP bucket=21703 L1 static ch7 wlan0
+[TX  ->  *] bucket=21703 L1 active=wlan0 ch7  BL=[]
+[17:28:30] HOP bucket=21704 L1 static ch7 wlan0
+[TX  ->  *] bucket=21704 L1 active=wlan0 ch7  BL=[]
+[17:28:32] HOP bucket=21705 L1 static ch7 wlan0
+[TX  ->  *] bucket=21705 L1 active=wlan0 ch7  BL=[]
+[17:28:34] HOP bucket=21706 L1 static ch7 wlan0
+[TX  ->  *] bucket=21706 L1 active=wlan0 ch7  BL=[]
+[17:28:36] HOP bucket=21707 L1 static ch7 wlan0
+[TX  ->  *] bucket=21707 L1 active=wlan0 ch7  BL=[]
+[17:28:38] HOP bucket=21708 L1 static ch7 wlan0
+[TX  ->  *] bucket=21708 L1 active=wlan0 ch7  BL=[]
+[17:28:40] HOP bucket=21709 L1 static ch7 wlan0
+[TX  ->  *] bucket=21709 L1 active=wlan0 ch7  BL=[]
+[17:28:42] HOP bucket=21710 L1 static ch7 wlan0
+[TX  ->  *] bucket=21710 L1 active=wlan0 ch7  BL=[]
+[17:28:44] HOP bucket=21711 L1 static ch7 wlan0
+[TX  ->  *] bucket=21711 L1 active=wlan0 ch7  BL=[]
+[17:28:46] HOP bucket=21712 L1 static ch7 wlan0
+[TX  ->  *] bucket=21712 L1 active=wlan0 ch7  BL=[]
+[17:28:48] HOP bucket=21713 L1 static ch7 wlan0
+[TX  ->  *] bucket=21713 L1 active=wlan0 ch7  BL=[]
+[17:28:50] HOP bucket=21714 L1 static ch7 wlan0
+[TX  ->  *] bucket=21714 L1 active=wlan0 ch7  BL=[]
+[17:28:52] HOP bucket=21715 L1 static ch7 wlan0
+[TX  ->  *] bucket=21715 L1 active=wlan0 ch7  BL=[]
+[17:28:54] HOP bucket=21716 L1 static ch7 wlan0
+[TX  ->  *] bucket=21716 L1 active=wlan0 ch7  BL=[]
+[17:28:56] HOP bucket=21717 L1 static ch7 wlan0
+[TX  ->  *] bucket=21717 L1 active=wlan0 ch7  BL=[]
+[17:28:58] HOP bucket=21718 L1 static ch7 wlan0
+[TX  ->  *] bucket=21718 L1 active=wlan0 ch7  BL=[]
+[17:29:00] HOP bucket=21719 L1 static ch7 wlan0
+[TX  ->  *] bucket=21719 L1 active=wlan0 ch7  BL=[]
+[17:29:02] HOP bucket=21720 L1 static ch7 wlan0
+[TX  ->  *] bucket=21720 L1 active=wlan0 ch7  BL=[]
+[17:29:04] HOP bucket=21721 L1 static ch7 wlan0
+[TX  ->  *] bucket=21721 L1 active=wlan0 ch7  BL=[]
+[17:29:06] HOP bucket=21722 L1 static ch7 wlan0
+[TX  ->  *] bucket=21722 L1 active=wlan0 ch7  BL=[]
+[17:29:08] HOP bucket=21723 L1 static ch7 wlan0
+[TX  ->  *] bucket=21723 L1 active=wlan0 ch7  BL=[]
+[17:29:10] HOP bucket=21724 L1 static ch7 wlan0
+[TX  ->  *] bucket=21724 L1 active=wlan0 ch7  BL=[]
+[17:29:12] HOP bucket=21725 L1 static ch7 wlan0
+[TX  ->  *] bucket=21725 L1 active=wlan0 ch7  BL=[]
+[17:29:14] HOP bucket=21726 L1 static ch7 wlan0
+[TX  ->  *] bucket=21726 L1 active=wlan0 ch7  BL=[]
+[17:29:16] HOP bucket=21727 L1 static ch7 wlan0
+[TX  ->  *] bucket=21727 L1 active=wlan0 ch7  BL=[]
+[17:29:18] HOP bucket=21728 L1 static ch7 wlan0
+[TX  ->  *] bucket=21728 L1 active=wlan0 ch7  BL=[]
+[17:29:20] HOP bucket=21729 L1 static ch7 wlan0
+[TX  ->  *] bucket=21729 L1 active=wlan0 ch7  BL=[]
+[17:29:22] HOP bucket=21730 L1 static ch7 wlan0
+[TX  ->  *] bucket=21730 L1 active=wlan0 ch7  BL=[]
+[17:29:24] HOP bucket=21731 L1 static ch7 wlan0
+[TX  ->  *] bucket=21731 L1 active=wlan0 ch7  BL=[]
+[17:29:26] HOP bucket=21732 L1 static ch7 wlan0
+[TX  ->  *] bucket=21732 L1 active=wlan0 ch7  BL=[]
+[17:29:28] HOP bucket=21733 L1 static ch7 wlan0
+[TX  ->  *] bucket=21733 L1 active=wlan0 ch7  BL=[]
+[17:29:30] HOP bucket=21734 L1 static ch7 wlan0
+[TX  ->  *] bucket=21734 L1 active=wlan0 ch7  BL=[]
+[17:29:32] HOP bucket=21735 L1 static ch7 wlan0
+[TX  ->  *] bucket=21735 L1 active=wlan0 ch7  BL=[]
+[17:29:34] HOP bucket=21736 L1 static ch7 wlan0
+[TX  ->  *] bucket=21736 L1 active=wlan0 ch7  BL=[]
+[17:29:36] HOP bucket=21737 L1 static ch7 wlan0
+[TX  ->  *] bucket=21737 L1 active=wlan0 ch7  BL=[]
+[17:29:38] HOP bucket=21738 L1 static ch7 wlan0
+[TX  ->  *] bucket=21738 L1 active=wlan0 ch7  BL=[]
+[17:29:40] HOP bucket=21739 L1 static ch7 wlan0
+[TX  ->  *] bucket=21739 L1 active=wlan0 ch7  BL=[]
+[17:29:42] HOP bucket=21740 L1 static ch7 wlan0
+[TX  ->  *] bucket=21740 L1 active=wlan0 ch7  BL=[]
+[17:29:44] HOP bucket=21741 L1 static ch7 wlan0
+[TX  ->  *] bucket=21741 L1 active=wlan0 ch7  BL=[]
+[17:29:46] HOP bucket=21742 L1 static ch7 wlan0
+[TX  ->  *] bucket=21742 L1 active=wlan0 ch7  BL=[]
+[17:29:48] HOP bucket=21743 L1 static ch7 wlan0
+[TX  ->  *] bucket=21743 L1 active=wlan0 ch7  BL=[]
+[17:29:50] HOP bucket=21744 L1 static ch7 wlan0
+[TX  ->  *] bucket=21744 L1 active=wlan0 ch7  BL=[]
+[17:29:52] HOP bucket=21745 L1 static ch7 wlan0
+[TX  ->  *] bucket=21745 L1 active=wlan0 ch7  BL=[]
+[17:29:54] HOP bucket=21746 L1 static ch7 wlan0
+[TX  ->  *] bucket=21746 L1 active=wlan0 ch7  BL=[]
+[17:29:56] HOP bucket=21747 L1 static ch7 wlan0
+[TX  ->  *] bucket=21747 L1 active=wlan0 ch7  BL=[]
+[17:29:58] HOP bucket=21748 L1 static ch7 wlan0
+[TX  ->  *] bucket=21748 L1 active=wlan0 ch7  BL=[]
+[17:30:00] HOP bucket=21749 L1 static ch7 wlan0
+[TX  ->  *] bucket=21749 L1 active=wlan0 ch7  BL=[]
+[17:30:02] HOP bucket=21750 L1 static ch7 wlan0
+[TX  ->  *] bucket=21750 L1 active=wlan0 ch7  BL=[]
+[17:30:04] HOP bucket=21751 L1 static ch7 wlan0
+[TX  ->  *] bucket=21751 L1 active=wlan0 ch7  BL=[]
+[17:30:06] HOP bucket=21752 L1 static ch7 wlan0
+[TX  ->  *] bucket=21752 L1 active=wlan0 ch7  BL=[]
+[17:30:08] HOP bucket=21753 L1 static ch7 wlan0
+[TX  ->  *] bucket=21753 L1 active=wlan0 ch7  BL=[]
+[17:30:10] HOP bucket=21754 L1 static ch7 wlan0
+[TX  ->  *] bucket=21754 L1 active=wlan0 ch7  BL=[]
+[17:30:12] HOP bucket=21755 L1 static ch7 wlan0
+[TX  ->  *] bucket=21755 L1 active=wlan0 ch7  BL=[]
+[17:30:14] HOP bucket=21756 L1 static ch7 wlan0
+[TX  ->  *] bucket=21756 L1 active=wlan0 ch7  BL=[]
+[17:30:16] HOP bucket=21757 L1 static ch7 wlan0
+[TX  ->  *] bucket=21757 L1 active=wlan0 ch7  BL=[]
+[17:30:18] HOP bucket=21758 L1 static ch7 wlan0
+[TX  ->  *] bucket=21758 L1 active=wlan0 ch7  BL=[]
+[17:30:20] HOP bucket=21759 L1 static ch7 wlan0
+[TX  ->  *] bucket=21759 L1 active=wlan0 ch7  BL=[]
+[17:30:22] HOP bucket=21760 L1 static ch7 wlan0
+[TX  ->  *] bucket=21760 L1 active=wlan0 ch7  BL=[]
+[17:30:24] HOP bucket=21761 L1 static ch7 wlan0
+[TX  ->  *] bucket=21761 L1 active=wlan0 ch7  BL=[]
+[17:30:26] HOP bucket=21762 L1 static ch7 wlan0
+[TX  ->  *] bucket=21762 L1 active=wlan0 ch7  BL=[]
+[17:30:28] HOP bucket=21763 L1 static ch7 wlan0
+[TX  ->  *] bucket=21763 L1 active=wlan0 ch7  BL=[]
+[17:30:30] HOP bucket=21764 L1 static ch7 wlan0
+[TX  ->  *] bucket=21764 L1 active=wlan0 ch7  BL=[]
+[17:30:32] HOP bucket=21765 L1 static ch7 wlan0
+[TX  ->  *] bucket=21765 L1 active=wlan0 ch7  BL=[]
+[17:30:34] HOP bucket=21766 L1 static ch7 wlan0
+[TX  ->  *] bucket=21766 L1 active=wlan0 ch7  BL=[]
+[17:30:36] HOP bucket=21767 L1 static ch7 wlan0
+[TX  ->  *] bucket=21767 L1 active=wlan0 ch7  BL=[]
+[17:30:38] HOP bucket=21768 L1 static ch7 wlan0
+[TX  ->  *] bucket=21768 L1 active=wlan0 ch7  BL=[]
+[17:30:40] HOP bucket=21769 L1 static ch7 wlan0
+[TX  ->  *] bucket=21769 L1 active=wlan0 ch7  BL=[]
+[17:30:42] HOP bucket=21770 L1 static ch7 wlan0
+[TX  ->  *] bucket=21770 L1 active=wlan0 ch7  BL=[]
+[17:30:44] HOP bucket=21771 L1 static ch7 wlan0
+[TX  ->  *] bucket=21771 L1 active=wlan0 ch7  BL=[]
+[17:30:46] HOP bucket=21772 L1 static ch7 wlan0
+[TX  ->  *] bucket=21772 L1 active=wlan0 ch7  BL=[]
+[17:30:48] HOP bucket=21773 L1 static ch7 wlan0
+[TX  ->  *] bucket=21773 L1 active=wlan0 ch7  BL=[]
+[17:30:50] HOP bucket=21774 L1 static ch7 wlan0
+[TX  ->  *] bucket=21774 L1 active=wlan0 ch7  BL=[]
+[17:30:52] HOP bucket=21775 L1 static ch7 wlan0
+[TX  ->  *] bucket=21775 L1 active=wlan0 ch7  BL=[]
+[17:30:54] HOP bucket=21776 L1 static ch7 wlan0
+[TX  ->  *] bucket=21776 L1 active=wlan0 ch7  BL=[]
+[17:30:56] HOP bucket=21777 L1 static ch7 wlan0
+[TX  ->  *] bucket=21777 L1 active=wlan0 ch7  BL=[]
+[17:30:58] HOP bucket=21778 L1 static ch7 wlan0
+[TX  ->  *] bucket=21778 L1 active=wlan0 ch7  BL=[]
+[17:31:00] HOP bucket=21779 L1 static ch7 wlan0
+[TX  ->  *] bucket=21779 L1 active=wlan0 ch7  BL=[]
+[17:31:02] HOP bucket=21780 L1 static ch7 wlan0
+[TX  ->  *] bucket=21780 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21780  peer_BL=[]  my_BL=[]
+[17:31:04] HOP bucket=21781 L1 static ch7 wlan0
+[RX  <- B] bucket=21781  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21781 L1 active=wlan0 ch7  BL=[]
+[17:31:06] HOP bucket=21782 L1 static ch7 wlan0
+[TX  ->  *] bucket=21782 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21782  peer_BL=[]  my_BL=[]
+[17:31:08] HOP bucket=21783 L1 static ch7 wlan0
+[TX  ->  *] bucket=21783 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21783  peer_BL=[]  my_BL=[]
+[17:31:10] HOP bucket=21784 L1 static ch7 wlan0
+[TX  ->  *] bucket=21784 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21784  peer_BL=[]  my_BL=[]
+[17:31:12] HOP bucket=21785 L1 static ch7 wlan0
+[RX  <- B] bucket=21785  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21785 L1 active=wlan0 ch7  BL=[]
+[17:31:14] HOP bucket=21786 L1 static ch7 wlan0
+[RX  <- B] bucket=21786  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21786 L1 active=wlan0 ch7  BL=[]
+[17:31:16] HOP bucket=21787 L1 static ch7 wlan0
+[TX  ->  *] bucket=21787 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21787  peer_BL=[]  my_BL=[]
+[17:31:18] HOP bucket=21788 L1 static ch7 wlan0
+[TX  ->  *] bucket=21788 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21788  peer_BL=[]  my_BL=[]
+[17:31:20] HOP bucket=21789 L1 static ch7 wlan0
+[TX  ->  *] bucket=21789 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21789  peer_BL=[]  my_BL=[]
+[17:31:22] HOP bucket=21790 L1 static ch7 wlan0
+[RX  <- B] bucket=21790  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21790 L1 active=wlan0 ch7  BL=[]
+[17:31:24] HOP bucket=21791 L1 static ch7 wlan0
+[TX  ->  *] bucket=21791 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21791  peer_BL=[]  my_BL=[]
+[17:31:26] HOP bucket=21792 L1 static ch7 wlan0
+[TX  ->  *] bucket=21792 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21792  peer_BL=[]  my_BL=[]
+[17:31:28] HOP bucket=21793 L1 static ch7 wlan0
+[RX  <- B] bucket=21793  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21793 L1 active=wlan0 ch7  BL=[]
+[17:31:30] HOP bucket=21794 L1 static ch7 wlan0
+[TX  ->  *] bucket=21794 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21794  peer_BL=[]  my_BL=[]
+[17:31:32] HOP bucket=21795 L1 static ch7 wlan0
+[TX  ->  *] bucket=21795 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21795  peer_BL=[]  my_BL=[]
+[17:31:34] HOP bucket=21796 L1 static ch7 wlan0
+[TX  ->  *] bucket=21796 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21796  peer_BL=[]  my_BL=[]
+[17:31:36] HOP bucket=21797 L1 static ch7 wlan0
+[TX  ->  *] bucket=21797 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21797  peer_BL=[]  my_BL=[]
+[17:31:38] HOP bucket=21798 L1 static ch7 wlan0
+[TX  ->  *] bucket=21798 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21798  peer_BL=[]  my_BL=[]
+[17:31:40] HOP bucket=21799 L1 static ch7 wlan0
+[TX  ->  *] bucket=21799 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21799  peer_BL=[]  my_BL=[]
+[17:31:42] HOP bucket=21800 L1 static ch7 wlan0
+[TX  ->  *] bucket=21800 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21800  peer_BL=[]  my_BL=[]
+[17:31:44] HOP bucket=21801 L1 static ch7 wlan0
+[TX  ->  *] bucket=21801 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21801  peer_BL=[]  my_BL=[]
+[17:31:46] HOP bucket=21802 L1 static ch7 wlan0
+[TX  ->  *] bucket=21802 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21802  peer_BL=[]  my_BL=[]
+[17:31:48] HOP bucket=21803 L1 static ch7 wlan0
+[TX  ->  *] bucket=21803 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21803  peer_BL=[]  my_BL=[]
+[17:31:50] HOP bucket=21804 L1 static ch7 wlan0
+[TX  ->  *] bucket=21804 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21804  peer_BL=[]  my_BL=[]
+[17:31:52] HOP bucket=21805 L1 static ch7 wlan0
+[TX  ->  *] bucket=21805 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21805  peer_BL=[]  my_BL=[]
+[17:31:54] HOP bucket=21806 L1 static ch7 wlan0
+[TX  ->  *] bucket=21806 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21806  peer_BL=[]  my_BL=[]
+[17:31:56] HOP bucket=21807 L1 static ch7 wlan0
+[RX  <- B] bucket=21807  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21807 L1 active=wlan0 ch7  BL=[]
+[17:31:58] HOP bucket=21808 L1 static ch7 wlan0
+[TX  ->  *] bucket=21808 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21808  peer_BL=[]  my_BL=[]
+[17:32:00] HOP bucket=21809 L1 static ch7 wlan0
+[TX  ->  *] bucket=21809 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21809  peer_BL=[]  my_BL=[]
+[17:32:02] HOP bucket=21810 L1 static ch7 wlan0
+[TX  ->  *] bucket=21810 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21810  peer_BL=[]  my_BL=[]
+[17:32:04] HOP bucket=21811 L1 static ch7 wlan0
+[TX  ->  *] bucket=21811 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21811  peer_BL=[]  my_BL=[]
+[17:32:06] HOP bucket=21812 L1 static ch7 wlan0
+[TX  ->  *] bucket=21812 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21812  peer_BL=[]  my_BL=[]
+[17:32:08] HOP bucket=21813 L1 static ch7 wlan0
+[TX  ->  *] bucket=21813 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21813  peer_BL=[]  my_BL=[]
+[17:32:10] HOP bucket=21814 L1 static ch7 wlan0
+[TX  ->  *] bucket=21814 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21814  peer_BL=[]  my_BL=[]
+[17:32:12] HOP bucket=21815 L1 static ch7 wlan0
+[TX  ->  *] bucket=21815 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21815  peer_BL=[]  my_BL=[]
+[17:32:14] HOP bucket=21816 L1 static ch7 wlan0
+[RX  <- B] bucket=21816  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21816 L1 active=wlan0 ch7  BL=[]
+[17:32:16] HOP bucket=21817 L1 static ch7 wlan0
+[TX  ->  *] bucket=21817 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21817  peer_BL=[]  my_BL=[]
+[17:32:18] HOP bucket=21818 L1 static ch7 wlan0
+[TX  ->  *] bucket=21818 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21818  peer_BL=[]  my_BL=[]
+[17:32:20] HOP bucket=21819 L1 static ch7 wlan0
+[TX  ->  *] bucket=21819 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21819  peer_BL=[]  my_BL=[]
+[17:32:22] HOP bucket=21820 L1 static ch7 wlan0
+[TX  ->  *] bucket=21820 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21820  peer_BL=[]  my_BL=[]
+[17:32:24] HOP bucket=21821 L1 static ch7 wlan0
+[TX  ->  *] bucket=21821 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21821  peer_BL=[]  my_BL=[]
+[17:32:26] HOP bucket=21822 L1 static ch7 wlan0
+[TX  ->  *] bucket=21822 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21822  peer_BL=[]  my_BL=[]
+[17:32:28] HOP bucket=21823 L1 static ch7 wlan0
+[RX  <- B] bucket=21823  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21823 L1 active=wlan0 ch7  BL=[]
+[17:32:30] HOP bucket=21824 L1 static ch7 wlan0
+[TX  ->  *] bucket=21824 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21824  peer_BL=[]  my_BL=[]
+[17:32:32] HOP bucket=21825 L1 static ch7 wlan0
+[TX  ->  *] bucket=21825 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21825  peer_BL=[]  my_BL=[]
+[17:32:34] HOP bucket=21826 L1 static ch7 wlan0
+[TX  ->  *] bucket=21826 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21826  peer_BL=[]  my_BL=[]
+[17:32:36] HOP bucket=21827 L1 static ch7 wlan0
+[TX  ->  *] bucket=21827 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21827  peer_BL=[]  my_BL=[]
+[17:32:38] HOP bucket=21828 L1 static ch7 wlan0
+[TX  ->  *] bucket=21828 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21828  peer_BL=[]  my_BL=[]
+[17:32:40] HOP bucket=21829 L1 static ch7 wlan0
+[RX  <- B] bucket=21829  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21829 L1 active=wlan0 ch7  BL=[]
+[17:32:42] HOP bucket=21830 L1 static ch7 wlan0
+[TX  ->  *] bucket=21830 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21830  peer_BL=[]  my_BL=[]
+[17:32:44] HOP bucket=21831 L1 static ch7 wlan0
+[RX  <- B] bucket=21831  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21831 L1 active=wlan0 ch7  BL=[]
+[17:32:46] HOP bucket=21832 L1 static ch7 wlan0
+[TX  ->  *] bucket=21832 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21832  peer_BL=[]  my_BL=[]
+[17:32:48] HOP bucket=21833 L1 static ch7 wlan0
+[RX  <- B] bucket=21833  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21833 L1 active=wlan0 ch7  BL=[]
+[17:32:50] HOP bucket=21834 L1 static ch7 wlan0
+[TX  ->  *] bucket=21834 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21834  peer_BL=[]  my_BL=[]
+[17:32:52] HOP bucket=21835 L1 static ch7 wlan0
+[TX  ->  *] bucket=21835 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21835  peer_BL=[]  my_BL=[]
+[17:32:54] HOP bucket=21836 L1 static ch7 wlan0
+[TX  ->  *] bucket=21836 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21836  peer_BL=[]  my_BL=[]
+[17:32:56] HOP bucket=21837 L1 static ch7 wlan0
+[TX  ->  *] bucket=21837 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21837  peer_BL=[]  my_BL=[]
+[17:32:58] HOP bucket=21838 L1 static ch7 wlan0
+[TX  ->  *] bucket=21838 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21838  peer_BL=[]  my_BL=[]
+[17:33:00] HOP bucket=21839 L1 static ch7 wlan0
+[TX  ->  *] bucket=21839 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21839  peer_BL=[]  my_BL=[]
+[17:33:02] HOP bucket=21840 L1 static ch7 wlan0
+[TX  ->  *] bucket=21840 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21840  peer_BL=[]  my_BL=[]
+[17:33:04] HOP bucket=21841 L1 static ch7 wlan0
+[TX  ->  *] bucket=21841 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21841  peer_BL=[]  my_BL=[]
+[17:33:06] HOP bucket=21842 L1 static ch7 wlan0
+[TX  ->  *] bucket=21842 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21842  peer_BL=[]  my_BL=[]
+[17:33:08] HOP bucket=21843 L1 static ch7 wlan0
+[TX  ->  *] bucket=21843 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21843  peer_BL=[]  my_BL=[]
+[17:33:10] HOP bucket=21844 L1 static ch7 wlan0
+[TX  ->  *] bucket=21844 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21844  peer_BL=[]  my_BL=[]
+[17:33:12] HOP bucket=21845 L1 static ch7 wlan0
+[TX  ->  *] bucket=21845 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21845  peer_BL=[]  my_BL=[]
+[17:33:14] HOP bucket=21846 L1 static ch7 wlan0
+[RX  <- B] bucket=21846  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21846 L1 active=wlan0 ch7  BL=[]
+[17:33:16] HOP bucket=21847 L1 static ch7 wlan0
+[TX  ->  *] bucket=21847 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21847  peer_BL=[]  my_BL=[]
+[17:33:18] HOP bucket=21848 L1 static ch7 wlan0
+[TX  ->  *] bucket=21848 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21848  peer_BL=[]  my_BL=[]
+[17:33:20] HOP bucket=21849 L1 static ch7 wlan0
+[TX  ->  *] bucket=21849 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21849  peer_BL=[]  my_BL=[]
+[17:33:22] HOP bucket=21850 L1 static ch7 wlan0
+[TX  ->  *] bucket=21850 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21850  peer_BL=[]  my_BL=[]
+[17:33:24] HOP bucket=21851 L1 static ch7 wlan0
+[TX  ->  *] bucket=21851 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21851  peer_BL=[]  my_BL=[]
+[17:33:26] HOP bucket=21852 L1 static ch7 wlan0
+[TX  ->  *] bucket=21852 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21852  peer_BL=[]  my_BL=[]
+[17:33:28] HOP bucket=21853 L1 static ch7 wlan0
+[TX  ->  *] bucket=21853 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21853  peer_BL=[]  my_BL=[]
+[17:33:30] HOP bucket=21854 L1 static ch7 wlan0
+[TX  ->  *] bucket=21854 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21854  peer_BL=[]  my_BL=[]
+[17:33:32] HOP bucket=21855 L1 static ch7 wlan0
+[TX  ->  *] bucket=21855 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21855  peer_BL=[]  my_BL=[]
+[17:33:34] HOP bucket=21856 L1 static ch7 wlan0
+[TX  ->  *] bucket=21856 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21856  peer_BL=[]  my_BL=[]
+[17:33:36] HOP bucket=21857 L1 static ch7 wlan0
+[TX  ->  *] bucket=21857 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21857  peer_BL=[]  my_BL=[]
+[17:33:38] HOP bucket=21858 L1 static ch7 wlan0
+[TX  ->  *] bucket=21858 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21858  peer_BL=[]  my_BL=[]
+[17:33:40] HOP bucket=21859 L1 static ch7 wlan0
+[RX  <- B] bucket=21859  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21859 L1 active=wlan0 ch7  BL=[]
+[17:33:42] HOP bucket=21860 L1 static ch7 wlan0
+[RX  <- B] bucket=21860  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21860 L1 active=wlan0 ch7  BL=[]
+[17:33:44] HOP bucket=21861 L1 static ch7 wlan0
+[TX  ->  *] bucket=21861 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21861  peer_BL=[]  my_BL=[]
+[17:33:46] HOP bucket=21862 L1 static ch7 wlan0
+[TX  ->  *] bucket=21862 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21862  peer_BL=[]  my_BL=[]
+[17:33:48] HOP bucket=21863 L1 static ch7 wlan0
+[TX  ->  *] bucket=21863 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21863  peer_BL=[]  my_BL=[]
+[17:33:50] HOP bucket=21864 L1 static ch7 wlan0
+[RX  <- B] bucket=21864  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21864 L1 active=wlan0 ch7  BL=[]
+[17:33:52] HOP bucket=21865 L1 static ch7 wlan0
+[TX  ->  *] bucket=21865 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21865  peer_BL=[]  my_BL=[]
+[17:33:54] HOP bucket=21866 L1 static ch7 wlan0
+[TX  ->  *] bucket=21866 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21866  peer_BL=[]  my_BL=[]
+[17:33:56] HOP bucket=21867 L1 static ch7 wlan0
+[RX  <- B] bucket=21867  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21867 L1 active=wlan0 ch7  BL=[]
+[17:33:58] HOP bucket=21868 L1 static ch7 wlan0
+[TX  ->  *] bucket=21868 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21868  peer_BL=[]  my_BL=[]
+[17:34:00] HOP bucket=21869 L1 static ch7 wlan0
+[TX  ->  *] bucket=21869 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21869  peer_BL=[]  my_BL=[]
+[17:34:02] HOP bucket=21870 L1 static ch7 wlan0
+[TX  ->  *] bucket=21870 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21870  peer_BL=[]  my_BL=[]
+[17:34:04] HOP bucket=21871 L1 static ch7 wlan0
+[TX  ->  *] bucket=21871 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21871  peer_BL=[]  my_BL=[]
+[17:34:06] HOP bucket=21872 L1 static ch7 wlan0
+[RX  <- B] bucket=21872  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21872 L1 active=wlan0 ch7  BL=[]
+[17:34:08] HOP bucket=21873 L1 static ch7 wlan0
+[RX  <- B] bucket=21873  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21873 L1 active=wlan0 ch7  BL=[]
+[17:34:10] HOP bucket=21874 L1 static ch7 wlan0
+[TX  ->  *] bucket=21874 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21874  peer_BL=[]  my_BL=[]
+[17:34:12] HOP bucket=21875 L1 static ch7 wlan0
+[TX  ->  *] bucket=21875 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21875  peer_BL=[]  my_BL=[]
+[17:34:14] HOP bucket=21876 L1 static ch7 wlan0
+[TX  ->  *] bucket=21876 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21876  peer_BL=[]  my_BL=[]
+[17:34:16] HOP bucket=21877 L1 static ch7 wlan0
+[TX  ->  *] bucket=21877 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21877  peer_BL=[]  my_BL=[]
+[17:34:18] HOP bucket=21878 L1 static ch7 wlan0
+[TX  ->  *] bucket=21878 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21878  peer_BL=[]  my_BL=[]
+[17:34:20] HOP bucket=21879 L1 static ch7 wlan0
+[TX  ->  *] bucket=21879 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21879  peer_BL=[]  my_BL=[]
+[17:34:22] HOP bucket=21880 L1 static ch7 wlan0
+[TX  ->  *] bucket=21880 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21880  peer_BL=[]  my_BL=[]
+[17:34:24] HOP bucket=21881 L1 static ch7 wlan0
+[RX  <- B] bucket=21881  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21881 L1 active=wlan0 ch7  BL=[]
+[17:34:26] HOP bucket=21882 L1 static ch7 wlan0
+[TX  ->  *] bucket=21882 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21882  peer_BL=[]  my_BL=[]
+[17:34:28] HOP bucket=21883 L1 static ch7 wlan0
+[RX  <- B] bucket=21883  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21883 L1 active=wlan0 ch7  BL=[]
+[17:34:30] HOP bucket=21884 L1 static ch7 wlan0
+[TX  ->  *] bucket=21884 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21884  peer_BL=[]  my_BL=[]
+[17:34:32] HOP bucket=21885 L1 static ch7 wlan0
+[TX  ->  *] bucket=21885 L1 active=wlan0 ch7  BL=[]
+[RX  <- B] bucket=21885  peer_BL=[]  my_BL=[]
+[17:34:34] HOP bucket=21886 L1 static ch7 wlan0
+[RX  <- B] bucket=21886  peer_BL=[]  my_BL=[]
+[TX  ->  *] bucket=21886 L1 active=wlan0 ch7  BL=[]
+[17:34:36] HOP bucket=21887 L1 static ch7 wlan0
+[TX  ->  *] bucket=21887 L1 active=wlan0 ch7  BL=[]

@@ -1,0 +1,10 @@
+ARTCHO TEST SUMMARY — L5 (run 00_00_20260303_021236)
+============================================================
+
+PDR (A -> B): 99.80%  (23954/24001)
+PDR (B -> A): 99.99%  (23999/24001)
+
+Latency (B -> A): mean=9.32ms  median=0.86ms  p95=4.80ms  p99=330.64ms  max=1095.68ms  stdev=72.99ms  n=23999
+Latency (A -> B): mean=10.36ms  median=0.83ms  p95=4.27ms  p99=418.41ms  max=1039.23ms  stdev=77.26ms  n=23954
+
+BL agreement: 100.00% over 537 buckets

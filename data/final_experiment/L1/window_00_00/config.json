@@ -1,0 +1,14 @@
+{
+  "mode": "L1",
+  "window_name": "00_00",
+  "window_idx": 1,
+  "window_total": 5,
+  "sim_offset_s": 0,
+  "test_epoch": 1776781960.0,
+  "bucket_epoch": 1776781960.0,
+  "run_id": "00_00_20260421_163218",
+  "transport": "unicast",
+  "static_channel": "7",
+  "test_duration": 1200,
+  "wall_start_iso": "2026-04-21T16:32:40"
+}

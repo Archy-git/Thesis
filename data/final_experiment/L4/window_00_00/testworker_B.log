@@ -1,0 +1,15 @@
+============================================================
+ TESTWORKER — NODE_ID=B MODE=L4 RUN_ID=00_00_20260303_005425
+============================================================
+ TEST_EPOCH  : 1772495686.0
+ BUCKET_EPOCH: 1772495686.0   (offset 0s)
+ TRANSPORT   : unicast  (DEST_ADDR = 192.168.200.1:5002)
+ OUTPUT_DIR  : /tmp/artcho_run_1772495665
+ TX CSV      : /tmp/artcho_run_1772495665/test_L4_00_00_20260303_005425_B_tx.csv
+ RX CSV      : /tmp/artcho_run_1772495665/test_L4_00_00_20260303_005425_B_rx.csv
+============================================================
+
+[TX] sender done, 24001 packets emitted
+[RX] receiver done, 23690 packets received
+[TESTWORKER] Test complete, cleaning up tc...
+[TESTWORKER] Done.

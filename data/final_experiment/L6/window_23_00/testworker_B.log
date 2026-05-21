@@ -1,0 +1,15 @@
+============================================================
+ TESTWORKER — NODE_ID=B MODE=L6 RUN_ID=23_00_20260303_085509
+============================================================
+ TEST_EPOCH  : 1772524530.0
+ BUCKET_EPOCH: 1772441730.0   (offset 82800s)
+ TRANSPORT   : unicast  (DEST_ADDR = 192.168.200.1:5002)
+ OUTPUT_DIR  : /tmp/artcho_run_1772524509
+ TX CSV      : /tmp/artcho_run_1772524509/test_L6_23_00_20260303_085509_B_tx.csv
+ RX CSV      : /tmp/artcho_run_1772524509/test_L6_23_00_20260303_085509_B_rx.csv
+============================================================
+
+[TX] sender done, 24001 packets emitted
+[RX] receiver done, 20300 packets received
+[TESTWORKER] Test complete, cleaning up tc...
+[TESTWORKER] Done.
