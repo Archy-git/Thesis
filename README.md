@@ -108,6 +108,6 @@ the local 2.4 GHz environment.
 
 MIT — see [LICENSE](LICENSE).
 
-## Author
+## Authors
 
 Arturs Mikelsons and Nicholas Holm Charlton — Bachelor's thesis, 2026.
