@@ -110,4 +110,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-Arturs Mikelsons — Bachelor's thesis, 2026.
+Arturs Mikelsons and Nicholas Holm Charlton — Bachelor's thesis, 2026.
