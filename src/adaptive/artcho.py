@@ -164,7 +164,10 @@ class ArtchoNode:
         return {ch: exp for ch, exp in bl.items() if exp > now}
 
     # ----- Kernel TX-Drop Signal -----------------------------------------
-
+    '''
+    ---------- OBS! This function works for the tc/netem simulation but 
+    requires changes to count from hardware counters like tx failed in order for blacklisting to work against real RF jamming---------
+    '''
     @staticmethod
     def get_egress_dropped(iface):
         try:
